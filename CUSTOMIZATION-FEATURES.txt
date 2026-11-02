@@ -1,0 +1,19 @@
+JEE OS CUSTOMIZATION UPDATE
+
+Working preferences added:
+- Choose the tab opened on startup: Dashboard, Planner, Calendar, Syllabus, or Revision.
+- Choose Full or Compact dashboard layout.
+- Hide completed chapters in the syllabus list (the Complete filter still works).
+- Hide the live clock in the header.
+- Reduce interface animations.
+- Enable/disable confirmation before marking an entire chapter complete.
+
+Existing working preferences retained:
+- Dark, light, or device theme.
+- Accent color.
+- Compact, comfortable, or spacious interface density.
+- Small, default, or large text.
+- Display name and target date.
+- Backup export/import and reset confirmation.
+
+Preferences are stored in the tracker state and included in JSON backups. The fixed lecture map remains precomputed and is not recalculated by these customization options.

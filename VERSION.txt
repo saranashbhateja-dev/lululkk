@@ -1,0 +1,4 @@
+JEE OS — Customizable Start Date + Daily PCM Balance + Aligned Subject Finish
+Version: 4.5.0
+
+Includes functional plan start-date customization, a daily PCM baseline, a 6.5-hour cap at 1.5x, and workload-balancing lookahead to try to align Physics, Chemistry, and Maths completion dates.

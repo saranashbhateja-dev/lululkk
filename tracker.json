@@ -1,0 +1,5580 @@
+{
+  "v": 15,
+  "curriculumId": "jeeos-fixed-duration-map-2026-11-29",
+  "name": "JEE OS · Fixed Lecture Map",
+  "exam": "",
+  "theme": "dark",
+  "planStart": "2026-11-29",
+  "perDay": null,
+  "rest": 0,
+  "balance": true,
+  "buffer": 30,
+  "chapters": [
+    {
+      "id": "J26P03",
+      "sub": "P",
+      "name": "Mathematical Tools",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/physics-by-rajwant-singh-sir-982104/subject-topics/ch--01---basic-mathematics-030800",
+      "sourceOrder": 1,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 6799,
+          "duration15x": 4533,
+          "scheduledDate": "2026-11-29",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 7172,
+          "duration15x": 4781,
+          "scheduledDate": "2026-11-29",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 7528,
+          "duration15x": 5019,
+          "scheduledDate": "2026-11-30",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 7056,
+          "duration15x": 4704,
+          "scheduledDate": "2026-11-30",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 7040,
+          "duration15x": 4693,
+          "scheduledDate": "2026-12-01",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 7600,
+          "duration15x": 5067,
+          "scheduledDate": "2026-12-01",
+          "lectureLabel": "06"
+        },
+        {
+          "d": null,
+          "duration1x": 6912,
+          "duration15x": 4608,
+          "scheduledDate": "2026-12-02",
+          "lectureLabel": "07"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26P04",
+      "sub": "P",
+      "name": "Motion in a Straight Line",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/physics-by-rajwant-singh-sir-982104/subject-topics/ch--02---motion-in-1dimension-438776",
+      "sourceOrder": 2,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 7028,
+          "duration15x": 4685,
+          "scheduledDate": "2026-12-02",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 6325,
+          "duration15x": 4217,
+          "scheduledDate": "2026-12-03",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 7172,
+          "duration15x": 4781,
+          "scheduledDate": "2026-12-03",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 7008,
+          "duration15x": 4672,
+          "scheduledDate": "2026-12-04",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 7484,
+          "duration15x": 4989,
+          "scheduledDate": "2026-12-04",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 6492,
+          "duration15x": 4328,
+          "scheduledDate": "2026-12-05",
+          "lectureLabel": "06"
+        },
+        {
+          "d": null,
+          "duration1x": 8476,
+          "duration15x": 5651,
+          "scheduledDate": "2026-12-05",
+          "lectureLabel": "07"
+        },
+        {
+          "d": null,
+          "duration1x": 6812,
+          "duration15x": 4541,
+          "scheduledDate": "2026-12-06",
+          "lectureLabel": "08"
+        },
+        {
+          "d": null,
+          "duration1x": 6632,
+          "duration15x": 4421,
+          "scheduledDate": "2026-12-06",
+          "lectureLabel": "09"
+        },
+        {
+          "d": null,
+          "duration1x": 7568,
+          "duration15x": 5045,
+          "scheduledDate": "2026-12-07",
+          "lectureLabel": "10"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26P05",
+      "sub": "P",
+      "name": "Motion in a Plane",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/physics-by-rajwant-singh-sir-982104/subject-topics/ch--03---motion-in-plane-350781",
+      "sourceOrder": 3,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 7052,
+          "duration15x": 4701,
+          "scheduledDate": "2026-12-07",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 7464,
+          "duration15x": 4976,
+          "scheduledDate": "2026-12-08",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 7024,
+          "duration15x": 4683,
+          "scheduledDate": "2026-12-08",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 7752,
+          "duration15x": 5168,
+          "scheduledDate": "2026-12-09",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 7532,
+          "duration15x": 5021,
+          "scheduledDate": "2026-12-09",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 7508,
+          "duration15x": 5005,
+          "scheduledDate": "2026-12-10",
+          "lectureLabel": "06"
+        },
+        {
+          "d": null,
+          "duration1x": 7824,
+          "duration15x": 5216,
+          "scheduledDate": "2026-12-10",
+          "lectureLabel": "07"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26P06",
+      "sub": "P",
+      "name": "Laws of Motion",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/physics-by-rajwant-singh-sir-982104/subject-topics/ch--04---laws-of-motion-291709",
+      "sourceOrder": 4,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 7684,
+          "duration15x": 5123,
+          "scheduledDate": "2026-12-11",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 7372,
+          "duration15x": 4915,
+          "scheduledDate": "2026-12-11",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 8040,
+          "duration15x": 5360,
+          "scheduledDate": "2026-12-12",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 12418,
+          "duration15x": 8279,
+          "scheduledDate": "2026-12-13",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 6764,
+          "duration15x": 4509,
+          "scheduledDate": "2026-12-13",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 7824,
+          "duration15x": 5216,
+          "scheduledDate": "2026-12-14",
+          "lectureLabel": "06"
+        },
+        {
+          "d": null,
+          "duration1x": 7816,
+          "duration15x": 5211,
+          "scheduledDate": "2026-12-14",
+          "lectureLabel": "07"
+        },
+        {
+          "d": null,
+          "duration1x": 7556,
+          "duration15x": 5037,
+          "scheduledDate": "2026-12-15",
+          "lectureLabel": "08"
+        },
+        {
+          "d": null,
+          "duration1x": 6576,
+          "duration15x": 4384,
+          "scheduledDate": "2026-12-15",
+          "lectureLabel": "09"
+        },
+        {
+          "d": null,
+          "duration1x": 7340,
+          "duration15x": 4893,
+          "scheduledDate": "2026-12-16",
+          "lectureLabel": "10"
+        },
+        {
+          "d": null,
+          "duration1x": 6523,
+          "duration15x": 4349,
+          "scheduledDate": "2026-12-16",
+          "lectureLabel": "11"
+        },
+        {
+          "d": null,
+          "duration1x": 6188,
+          "duration15x": 4125,
+          "scheduledDate": "2026-12-17",
+          "lectureLabel": "12"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26P07",
+      "sub": "P",
+      "name": "Work, Energy and Power",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/physics-by-rajwant-singh-sir-982104/subject-topics/ch--05---work--energy-and-power-514828",
+      "sourceOrder": 5,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 7120,
+          "duration15x": 4747,
+          "scheduledDate": "2026-12-17",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 6344,
+          "duration15x": 4229,
+          "scheduledDate": "2026-12-18",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 7328,
+          "duration15x": 4885,
+          "scheduledDate": "2026-12-18",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 7975,
+          "duration15x": 5317,
+          "scheduledDate": "2026-12-19",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 7964,
+          "duration15x": 5309,
+          "scheduledDate": "2026-12-19",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 7252,
+          "duration15x": 4835,
+          "scheduledDate": "2026-12-20",
+          "lectureLabel": "06"
+        },
+        {
+          "d": null,
+          "duration1x": 5464,
+          "duration15x": 3643,
+          "scheduledDate": "2026-12-20",
+          "lectureLabel": "07"
+        },
+        {
+          "d": null,
+          "duration1x": 7996,
+          "duration15x": 5331,
+          "scheduledDate": "2026-12-21",
+          "lectureLabel": "08"
+        },
+        {
+          "d": null,
+          "duration1x": 10380,
+          "duration15x": 6920,
+          "scheduledDate": "2026-12-22",
+          "lectureLabel": "09"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26P08",
+      "sub": "P",
+      "name": "Circular Motion",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/physics-by-rajwant-singh-sir-982104/subject-topics/ch--06---circular-motion-380268",
+      "sourceOrder": 6,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 7416,
+          "duration15x": 4944,
+          "scheduledDate": "2026-12-22",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 7416,
+          "duration15x": 4944,
+          "scheduledDate": "2026-12-23",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 7364,
+          "duration15x": 4909,
+          "scheduledDate": "2026-12-23",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 7684,
+          "duration15x": 5123,
+          "scheduledDate": "2026-12-24",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 7784,
+          "duration15x": 5189,
+          "scheduledDate": "2026-12-24",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 7064,
+          "duration15x": 4709,
+          "scheduledDate": "2026-12-25",
+          "lectureLabel": "06"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26P09",
+      "sub": "P",
+      "name": "Centre of Mass and System of Particles",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/physics-by-rajwant-singh-sir-982104/subject-topics/ch--07---center-of-mass-and-collison-837589",
+      "sourceOrder": 7,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 7800,
+          "duration15x": 5200,
+          "scheduledDate": "2026-12-25",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 7792,
+          "duration15x": 5195,
+          "scheduledDate": "2026-12-26",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 9508,
+          "duration15x": 6339,
+          "scheduledDate": "2026-12-26",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 7432,
+          "duration15x": 4955,
+          "scheduledDate": "2026-12-27",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 7376,
+          "duration15x": 4917,
+          "scheduledDate": "2026-12-27",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 7600,
+          "duration15x": 5067,
+          "scheduledDate": "2026-12-28",
+          "lectureLabel": "06"
+        },
+        {
+          "d": null,
+          "duration1x": 7636,
+          "duration15x": 5091,
+          "scheduledDate": "2026-12-28",
+          "lectureLabel": "07"
+        },
+        {
+          "d": null,
+          "duration1x": 7728,
+          "duration15x": 5152,
+          "scheduledDate": "2026-12-29",
+          "lectureLabel": "08"
+        },
+        {
+          "d": null,
+          "duration1x": 8256,
+          "duration15x": 5504,
+          "scheduledDate": "2026-12-29",
+          "lectureLabel": "09"
+        },
+        {
+          "d": null,
+          "duration1x": 10856,
+          "duration15x": 7237,
+          "scheduledDate": "2026-12-30",
+          "lectureLabel": "10"
+        },
+        {
+          "d": null,
+          "duration1x": 8068,
+          "duration15x": 5379,
+          "scheduledDate": "2026-12-30",
+          "lectureLabel": "11"
+        },
+        {
+          "d": null,
+          "duration1x": 13600,
+          "duration15x": 9067,
+          "scheduledDate": "2026-12-31",
+          "lectureLabel": "12"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26P10",
+      "sub": "P",
+      "name": "Rotational Motion",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/physics-by-rajwant-singh-sir-982104/subject-topics/ch--08---rotational-motion-153779",
+      "sourceOrder": 8,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 7628,
+          "duration15x": 5085,
+          "scheduledDate": "2027-01-01",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 7828,
+          "duration15x": 5219,
+          "scheduledDate": "2027-01-01",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 8300,
+          "duration15x": 5533,
+          "scheduledDate": "2027-01-02",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 7456,
+          "duration15x": 4971,
+          "scheduledDate": "2027-01-02",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 7568,
+          "duration15x": 5045,
+          "scheduledDate": "2027-01-03",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 8096,
+          "duration15x": 5397,
+          "scheduledDate": "2027-01-03",
+          "lectureLabel": "06"
+        },
+        {
+          "d": null,
+          "duration1x": 3600,
+          "duration15x": 2400,
+          "scheduledDate": "2027-01-04",
+          "lectureLabel": "07"
+        },
+        {
+          "d": null,
+          "duration1x": 4356,
+          "duration15x": 2904,
+          "scheduledDate": "2027-01-04",
+          "lectureLabel": "08"
+        },
+        {
+          "d": null,
+          "duration1x": 8044,
+          "duration15x": 5363,
+          "scheduledDate": "2027-01-05",
+          "lectureLabel": "09"
+        },
+        {
+          "d": null,
+          "duration1x": 7692,
+          "duration15x": 5128,
+          "scheduledDate": "2027-01-05",
+          "lectureLabel": "10"
+        },
+        {
+          "d": null,
+          "duration1x": 7524,
+          "duration15x": 5016,
+          "scheduledDate": "2027-01-06",
+          "lectureLabel": "11"
+        },
+        {
+          "d": null,
+          "duration1x": 8220,
+          "duration15x": 5480,
+          "scheduledDate": "2027-01-06",
+          "lectureLabel": "12"
+        },
+        {
+          "d": null,
+          "duration1x": 7816,
+          "duration15x": 5211,
+          "scheduledDate": "2027-01-07",
+          "lectureLabel": "13"
+        },
+        {
+          "d": null,
+          "duration1x": 7684,
+          "duration15x": 5123,
+          "scheduledDate": "2027-01-07",
+          "lectureLabel": "14"
+        },
+        {
+          "d": null,
+          "duration1x": 7448,
+          "duration15x": 4965,
+          "scheduledDate": "2027-01-08",
+          "lectureLabel": "15"
+        },
+        {
+          "d": null,
+          "duration1x": 7456,
+          "duration15x": 4971,
+          "scheduledDate": "2027-01-08",
+          "lectureLabel": "16"
+        },
+        {
+          "d": null,
+          "duration1x": 7488,
+          "duration15x": 4992,
+          "scheduledDate": "2027-01-09",
+          "lectureLabel": "17"
+        },
+        {
+          "d": null,
+          "duration1x": 7548,
+          "duration15x": 5032,
+          "scheduledDate": "2027-01-09",
+          "lectureLabel": "18"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26P11",
+      "sub": "P",
+      "name": "Gravitation",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/physics-by-rajwant-singh-sir-982104/subject-topics/ch--17---gravitation-273000",
+      "sourceOrder": 9,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 7885,
+          "duration15x": 5257,
+          "scheduledDate": "2027-01-10",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 8180,
+          "duration15x": 5453,
+          "scheduledDate": "2027-01-10",
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26P12",
+      "sub": "P",
+      "name": "Mechanical Properties of Solids",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/physics-by-rajwant-singh-sir-982104/subject-topics/ch--10---mechanical-properties-of-solids-188333",
+      "sourceOrder": 10,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 4318,
+          "duration15x": 2879,
+          "scheduledDate": "2027-01-11",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 4930,
+          "duration15x": 3287,
+          "scheduledDate": "2027-01-11",
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26P13",
+      "sub": "P",
+      "name": "Mechanical Properties of Fluids",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/physics-by-rajwant-singh-sir-982104/subject-topics/ch--09---mechanical-properties-of-fluids-440589",
+      "sourceOrder": 11,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 11164,
+          "duration15x": 7443,
+          "scheduledDate": "2027-01-12",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 7500,
+          "duration15x": 5000,
+          "scheduledDate": "2027-01-13",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 7320,
+          "duration15x": 4880,
+          "scheduledDate": "2027-01-13",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 7592,
+          "duration15x": 5061,
+          "scheduledDate": "2027-01-14",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 7724,
+          "duration15x": 5149,
+          "scheduledDate": "2027-01-14",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 7828,
+          "duration15x": 5219,
+          "scheduledDate": "2027-01-15",
+          "lectureLabel": "06"
+        },
+        {
+          "d": null,
+          "duration1x": 7400,
+          "duration15x": 4933,
+          "scheduledDate": "2027-01-15",
+          "lectureLabel": "07"
+        },
+        {
+          "d": null,
+          "duration1x": 7640,
+          "duration15x": 5093,
+          "scheduledDate": "2027-01-16",
+          "lectureLabel": "08"
+        },
+        {
+          "d": null,
+          "duration1x": 7780,
+          "duration15x": 5187,
+          "scheduledDate": "2027-01-16",
+          "lectureLabel": "09"
+        },
+        {
+          "d": null,
+          "duration1x": 12162,
+          "duration15x": 8108,
+          "scheduledDate": "2027-01-17",
+          "lectureLabel": "10"
+        },
+        {
+          "d": null,
+          "duration1x": 7532,
+          "duration15x": 5021,
+          "scheduledDate": "2027-01-18",
+          "lectureLabel": "11"
+        },
+        {
+          "d": null,
+          "duration1x": 8144,
+          "duration15x": 5429,
+          "scheduledDate": "2027-01-18",
+          "lectureLabel": "12"
+        },
+        {
+          "d": null,
+          "duration1x": 3219,
+          "duration15x": 2146,
+          "scheduledDate": "2027-01-18",
+          "lectureLabel": "13"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26P16",
+      "sub": "P",
+      "name": "Thermal Properties of Matter",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/physics-by-rajwant-singh-sir-982104/subject-topics/ch--11---thermal-properties-of-matter-038894",
+      "sourceOrder": 12,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 8552,
+          "duration15x": 5701,
+          "scheduledDate": "2027-01-19",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 7600,
+          "duration15x": 5067,
+          "scheduledDate": "2027-01-19",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 7380,
+          "duration15x": 4920,
+          "scheduledDate": "2027-01-20",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 7398,
+          "duration15x": 4932,
+          "scheduledDate": "2027-01-20",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 7772,
+          "duration15x": 5181,
+          "scheduledDate": "2027-01-21",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 7384,
+          "duration15x": 4923,
+          "scheduledDate": "2027-01-21",
+          "lectureLabel": "06"
+        },
+        {
+          "d": null,
+          "duration1x": 8032,
+          "duration15x": 5355,
+          "scheduledDate": "2027-01-22",
+          "lectureLabel": "07"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26P17",
+      "sub": "P",
+      "name": "Kinetic Theory and Thermodynamics",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/physics-by-rajwant-singh-sir-982104/subject-topics/ch--12---ktg-and-thermodynamics-942757",
+      "sourceOrder": 13,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 7944,
+          "duration15x": 5296,
+          "scheduledDate": "2027-01-22",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 7828,
+          "duration15x": 5219,
+          "scheduledDate": "2027-01-23",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 8040,
+          "duration15x": 5360,
+          "scheduledDate": "2027-01-23",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 12982,
+          "duration15x": 8655,
+          "scheduledDate": "2027-01-24",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 8426,
+          "duration15x": 5617,
+          "scheduledDate": "2027-01-25",
+          "lectureLabel": "05"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26P14",
+      "sub": "P",
+      "name": "Oscillations",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/physics-by-rajwant-singh-sir-982104/subject-topics/ch--13---simple-harmonic-motion-510997",
+      "sourceOrder": 14,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 7790,
+          "duration15x": 5193,
+          "scheduledDate": "2027-01-25",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 7778,
+          "duration15x": 5185,
+          "scheduledDate": "2027-01-26",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 7768,
+          "duration15x": 5179,
+          "scheduledDate": "2027-01-26",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 12816,
+          "duration15x": 8544,
+          "scheduledDate": "2027-01-27",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 9814,
+          "duration15x": 6543,
+          "scheduledDate": "2027-01-28",
+          "lectureLabel": "05"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26P15",
+      "sub": "P",
+      "name": "Waves",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/physics-by-rajwant-singh-sir-982104/subject-topics/ch--14---waves-697026",
+      "sourceOrder": 15,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 7712,
+          "duration15x": 5141,
+          "scheduledDate": "2027-01-28",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 7696,
+          "duration15x": 5131,
+          "scheduledDate": "2027-01-29",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 7580,
+          "duration15x": 5053,
+          "scheduledDate": "2027-01-29",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 8206,
+          "duration15x": 5471,
+          "scheduledDate": "2027-01-30",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 12778,
+          "duration15x": 8519,
+          "scheduledDate": "2027-01-31",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 4791,
+          "duration15x": 3194,
+          "scheduledDate": "2027-01-31",
+          "lectureLabel": "06"
+        },
+        {
+          "d": null,
+          "duration1x": 4371,
+          "duration15x": 2914,
+          "scheduledDate": "2027-01-31",
+          "lectureLabel": "07"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26P18",
+      "sub": "P",
+      "name": "Electric Charges and Fields",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/physics-by-rajwant-singh-sir-982104/subject-topics/ch--15---electric-charges-and-field-964729",
+      "sourceOrder": 16,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 7912,
+          "duration15x": 5275,
+          "scheduledDate": "2027-02-01",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 7728,
+          "duration15x": 5152,
+          "scheduledDate": "2027-02-01",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 7544,
+          "duration15x": 5029,
+          "scheduledDate": "2027-02-02",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 7696,
+          "duration15x": 5131,
+          "scheduledDate": "2027-02-02",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 12196,
+          "duration15x": 8131,
+          "scheduledDate": "2027-02-03",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 7786,
+          "duration15x": 5191,
+          "scheduledDate": "2027-02-04",
+          "lectureLabel": "06"
+        },
+        {
+          "d": null,
+          "duration1x": 7708,
+          "duration15x": 5139,
+          "scheduledDate": "2027-02-04",
+          "lectureLabel": "07"
+        },
+        {
+          "d": null,
+          "duration1x": 7640,
+          "duration15x": 5093,
+          "scheduledDate": "2027-02-05",
+          "lectureLabel": "08"
+        },
+        {
+          "d": null,
+          "duration1x": 7596,
+          "duration15x": 5064,
+          "scheduledDate": "2027-02-05",
+          "lectureLabel": "09"
+        },
+        {
+          "d": null,
+          "duration1x": 10952,
+          "duration15x": 7301,
+          "scheduledDate": "2027-02-06",
+          "lectureLabel": "10"
+        },
+        {
+          "d": null,
+          "duration1x": 10956,
+          "duration15x": 7304,
+          "scheduledDate": "2027-02-07",
+          "lectureLabel": "11"
+        },
+        {
+          "d": null,
+          "duration1x": 3626,
+          "duration15x": 2417,
+          "scheduledDate": "2027-02-07",
+          "lectureLabel": "12"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26P19",
+      "sub": "P",
+      "name": "Electrostatic Potential and Capacitance",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/physics-by-rajwant-singh-sir-982104/subject-topics/ch--16---electric-potential-and-capacitance-022797",
+      "sourceOrder": 17,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 7606,
+          "duration15x": 5071,
+          "scheduledDate": "2027-02-08",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 7638,
+          "duration15x": 5092,
+          "scheduledDate": "2027-02-08",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 7722,
+          "duration15x": 5148,
+          "scheduledDate": "2027-02-09",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 9800,
+          "duration15x": 6533,
+          "scheduledDate": "2027-02-10",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 10293,
+          "duration15x": 6862,
+          "scheduledDate": "2027-02-11",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 9202,
+          "duration15x": 6135,
+          "scheduledDate": "2027-02-12",
+          "lectureLabel": "06"
+        },
+        {
+          "d": null,
+          "duration1x": 7618,
+          "duration15x": 5079,
+          "scheduledDate": "2027-02-12",
+          "lectureLabel": "07"
+        },
+        {
+          "d": null,
+          "duration1x": 7744,
+          "duration15x": 5163,
+          "scheduledDate": "2027-02-13",
+          "lectureLabel": "08"
+        },
+        {
+          "d": null,
+          "duration1x": 7264,
+          "duration15x": 4843,
+          "scheduledDate": "2027-02-13",
+          "lectureLabel": "09"
+        },
+        {
+          "d": null,
+          "duration1x": 8058,
+          "duration15x": 5372,
+          "scheduledDate": "2027-02-14",
+          "lectureLabel": "10"
+        },
+        {
+          "d": null,
+          "duration1x": 7876,
+          "duration15x": 5251,
+          "scheduledDate": "2027-02-14",
+          "lectureLabel": "11"
+        },
+        {
+          "d": null,
+          "duration1x": 14452,
+          "duration15x": 9635,
+          "scheduledDate": "2027-02-15",
+          "lectureLabel": "12"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26P20",
+      "sub": "P",
+      "name": "Current Electricity",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/physics-by-rajwant-singh-sir-982104/subject-topics/ch--18---current-electricity-158820",
+      "sourceOrder": 18,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 17164,
+          "duration15x": 11443,
+          "scheduledDate": "2027-02-16",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 14916,
+          "duration15x": 9944,
+          "scheduledDate": "2027-02-17",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 7472,
+          "duration15x": 4981,
+          "scheduledDate": "2027-02-18",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 7592,
+          "duration15x": 5061,
+          "scheduledDate": "2027-02-18",
+          "lectureLabel": "04"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26P21",
+      "sub": "P",
+      "name": "Moving Charges and Magnetism",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/physics-by-rajwant-singh-sir-982104/subject-topics/ch-19---moving-charge-and-magnetism-857901",
+      "sourceOrder": 19,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 15504,
+          "duration15x": 10336,
+          "scheduledDate": "2027-02-19",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 9988,
+          "duration15x": 6659,
+          "scheduledDate": "2027-02-20",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 15028,
+          "duration15x": 10019,
+          "scheduledDate": "2027-02-21",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 13044,
+          "duration15x": 8696,
+          "scheduledDate": "2027-02-22",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 12896,
+          "duration15x": 8597,
+          "scheduledDate": "2027-02-23",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 10852,
+          "duration15x": 7235,
+          "scheduledDate": "2027-02-24",
+          "lectureLabel": "06"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26P22",
+      "sub": "P",
+      "name": "Magnetism and Matter",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/physics-by-rajwant-singh-sir-982104/subject-topics/ch-23---magnetism-and-matter-764688",
+      "sourceOrder": 20,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 9492,
+          "duration15x": 6328,
+          "scheduledDate": "2027-02-25",
+          "lectureLabel": "01"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26P23",
+      "sub": "P",
+      "name": "Electromagnetic Induction",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/physics-by-rajwant-singh-sir-982104/subject-topics/ch-20---electro-magnetic-induction-075650",
+      "sourceOrder": 21,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 14420,
+          "duration15x": 9613,
+          "scheduledDate": "2027-02-26",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 6504,
+          "duration15x": 4336,
+          "scheduledDate": "2027-02-27",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 13644,
+          "duration15x": 9096,
+          "scheduledDate": "2027-02-28",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 13304,
+          "duration15x": 8869,
+          "scheduledDate": "2027-03-01",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 12706,
+          "duration15x": 8471,
+          "scheduledDate": "2027-03-02",
+          "lectureLabel": "05"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26P24",
+      "sub": "P",
+      "name": "Alternating Current",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/physics-by-rajwant-singh-sir-982104/subject-topics/ch-21---alternating-current-659432",
+      "sourceOrder": 22,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 13078,
+          "duration15x": 8719,
+          "scheduledDate": "2027-03-03",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 14340,
+          "duration15x": 9560,
+          "scheduledDate": "2027-03-04",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 13982,
+          "duration15x": 9321,
+          "scheduledDate": "2027-03-05",
+          "lectureLabel": "03"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26P25",
+      "sub": "P",
+      "name": "Electromagnetic Waves",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/physics-by-rajwant-singh-sir-982104/subject-topics/ch--24---em-waves-421165",
+      "sourceOrder": 23,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 5547,
+          "duration15x": 3698,
+          "scheduledDate": "2027-03-05",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 3555,
+          "duration15x": 2370,
+          "scheduledDate": "2027-03-05",
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26P26",
+      "sub": "P",
+      "name": "Ray Optics and Optical Instruments",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/physics-by-rajwant-singh-sir-982104/subject-topics/ch-22---ray-optics-and-optical-instrument-678118",
+      "sourceOrder": 24,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 14480,
+          "duration15x": 9653,
+          "scheduledDate": "2027-03-06",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 4708,
+          "duration15x": 3139,
+          "scheduledDate": "2027-03-06",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 11692,
+          "duration15x": 7795,
+          "scheduledDate": "2027-03-07",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 12676,
+          "duration15x": 8451,
+          "scheduledDate": "2027-03-08",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 13512,
+          "duration15x": 9008,
+          "scheduledDate": "2027-03-09",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 12580,
+          "duration15x": 8387,
+          "scheduledDate": "2027-03-10",
+          "lectureLabel": "06"
+        },
+        {
+          "d": null,
+          "duration1x": 11674,
+          "duration15x": 7783,
+          "scheduledDate": "2027-03-11",
+          "lectureLabel": "07"
+        },
+        {
+          "d": null,
+          "duration1x": 11102,
+          "duration15x": 7401,
+          "scheduledDate": "2027-03-12",
+          "lectureLabel": "08"
+        },
+        {
+          "d": null,
+          "duration1x": 13324,
+          "duration15x": 8883,
+          "scheduledDate": "2027-03-13",
+          "lectureLabel": "09"
+        },
+        {
+          "d": null,
+          "duration1x": 7224,
+          "duration15x": 4816,
+          "scheduledDate": "2027-03-14",
+          "lectureLabel": "10"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26P27",
+      "sub": "P",
+      "name": "Wave Optics",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/physics-by-rajwant-singh-sir-982104/subject-topics/ch--25---wave-optics-928616",
+      "sourceOrder": 25,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 13374,
+          "duration15x": 8916,
+          "scheduledDate": "2027-03-15",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 13468,
+          "duration15x": 8979,
+          "scheduledDate": "2027-03-16",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 13144,
+          "duration15x": 8763,
+          "scheduledDate": "2027-03-17",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 12480,
+          "duration15x": 8320,
+          "scheduledDate": "2027-03-18",
+          "lectureLabel": "04"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26P28",
+      "sub": "P",
+      "name": "Dual Nature of Radiation and Matter",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/physics-by-rajwant-singh-sir-982104/subject-topics/ch---28---dual-nature-of-radiation-and-matter-119201",
+      "sourceOrder": 26,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 11116,
+          "duration15x": 7411,
+          "scheduledDate": "2027-03-19",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 10702,
+          "duration15x": 7135,
+          "scheduledDate": "2027-03-20",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 3909,
+          "duration15x": 2606,
+          "scheduledDate": "2027-03-20",
+          "lectureLabel": "03"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26P29",
+      "sub": "P",
+      "name": "Atoms",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/physics-by-rajwant-singh-sir-982104/subject-topics/ch---29---atoms-678639",
+      "sourceOrder": 27,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 13026,
+          "duration15x": 8684,
+          "scheduledDate": "2027-03-21",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 11492,
+          "duration15x": 7661,
+          "scheduledDate": "2027-03-22",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 7752,
+          "duration15x": 5168,
+          "scheduledDate": "2027-03-23",
+          "lectureLabel": "03"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26P30",
+      "sub": "P",
+      "name": "Nuclei",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/physics-by-rajwant-singh-sir-982104/subject-topics/ch---30---nuclei-098907",
+      "sourceOrder": 28,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 9773,
+          "duration15x": 6515,
+          "scheduledDate": "2027-03-24",
+          "lectureLabel": "01"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26P31",
+      "sub": "P",
+      "name": "Semiconductors",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/physics-by-rajwant-singh-sir-982104/subject-topics/ch---26---semiconductors-953289",
+      "sourceOrder": 29,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 3101,
+          "duration15x": 2067,
+          "scheduledDate": "2027-03-24",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 3493,
+          "duration15x": 2329,
+          "scheduledDate": "2027-03-25",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 3544,
+          "duration15x": 2363,
+          "scheduledDate": "2027-03-25",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 3439,
+          "duration15x": 2293,
+          "scheduledDate": "2027-03-25",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 10296,
+          "duration15x": 6864,
+          "scheduledDate": "2027-03-26",
+          "lectureLabel": "05"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26P01",
+      "sub": "P",
+      "name": "Units and Dimensions",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/physics-by-rajwant-singh-sir-982104/subject-topics/ch---31---units-and-measurement-912015",
+      "sourceOrder": 30,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 8155,
+          "duration15x": 5437,
+          "scheduledDate": "2027-03-27",
+          "lectureLabel": "01"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26P02",
+      "sub": "P",
+      "name": "Error and Measurement",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/physics-by-rajwant-singh-sir-982104/subject-topics/ch---27---instruments-954954",
+      "sourceOrder": 31,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 3029,
+          "duration15x": 2019,
+          "scheduledDate": "2027-03-27",
+          "lectureLabel": "01 — Significant Figure"
+        },
+        {
+          "d": null,
+          "duration1x": 3988,
+          "duration15x": 2659,
+          "scheduledDate": "2027-03-28",
+          "lectureLabel": "02 — Propagation of Error"
+        },
+        {
+          "d": null,
+          "duration1x": 6801,
+          "duration15x": 4534,
+          "scheduledDate": "2027-03-28",
+          "lectureLabel": "03 — Vernier Caliper and Screw Gauge"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26C01",
+      "sub": "C",
+      "name": "Some Basic Concepts of Chemistry",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/physical-chemistry-by-faisal-razaq-sir-693860/subject-topics/ch--01---some-basic-concepts-of-chemistry-700539",
+      "sourceOrder": 1,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 6724,
+          "duration15x": 4483,
+          "scheduledDate": "2026-11-29",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 6660,
+          "duration15x": 4440,
+          "scheduledDate": "2026-11-29",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 6706,
+          "duration15x": 4471,
+          "scheduledDate": "2026-11-30",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 6488,
+          "duration15x": 4325,
+          "scheduledDate": "2026-12-01",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 6518,
+          "duration15x": 4345,
+          "scheduledDate": "2026-12-01",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 6424,
+          "duration15x": 4283,
+          "scheduledDate": "2026-12-02",
+          "lectureLabel": "06"
+        },
+        {
+          "d": null,
+          "duration1x": 6602,
+          "duration15x": 4401,
+          "scheduledDate": "2026-12-03",
+          "lectureLabel": "07"
+        },
+        {
+          "d": null,
+          "duration1x": 6702,
+          "duration15x": 4468,
+          "scheduledDate": "2026-12-03",
+          "lectureLabel": "08"
+        },
+        {
+          "d": null,
+          "duration1x": 7212,
+          "duration15x": 4808,
+          "scheduledDate": "2026-12-04",
+          "lectureLabel": "09"
+        },
+        {
+          "d": null,
+          "duration1x": 6466,
+          "duration15x": 4311,
+          "scheduledDate": "2026-12-05",
+          "lectureLabel": "10"
+        },
+        {
+          "d": null,
+          "duration1x": 6720,
+          "duration15x": 4480,
+          "scheduledDate": "2026-12-06",
+          "lectureLabel": "11"
+        },
+        {
+          "d": null,
+          "duration1x": 6518,
+          "duration15x": 4345,
+          "scheduledDate": "2026-12-06",
+          "lectureLabel": "12"
+        },
+        {
+          "d": null,
+          "duration1x": 6904,
+          "duration15x": 4603,
+          "scheduledDate": "2026-12-07",
+          "lectureLabel": "13"
+        },
+        {
+          "d": null,
+          "duration1x": 6532,
+          "duration15x": 4355,
+          "scheduledDate": "2026-12-08",
+          "lectureLabel": "14"
+        },
+        {
+          "d": null,
+          "duration1x": 6818,
+          "duration15x": 4545,
+          "scheduledDate": "2026-12-09",
+          "lectureLabel": "15"
+        },
+        {
+          "d": null,
+          "duration1x": 2282,
+          "duration15x": 1521,
+          "scheduledDate": "2026-12-09",
+          "lectureLabel": "16"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26C02",
+      "sub": "C",
+      "name": "Structure of Atom",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/physical-chemistry-by-faisal-razaq-sir-693860/subject-topics/ch-08---structure-of-atom-283609",
+      "sourceOrder": 2,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 8188,
+          "duration15x": 5459,
+          "scheduledDate": "2026-12-10",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 8076,
+          "duration15x": 5384,
+          "scheduledDate": "2026-12-11",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 7622,
+          "duration15x": 5081,
+          "scheduledDate": "2026-12-12",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 6862,
+          "duration15x": 4575,
+          "scheduledDate": "2026-12-12",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 7100,
+          "duration15x": 4733,
+          "scheduledDate": "2026-12-13",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 7160,
+          "duration15x": 4773,
+          "scheduledDate": "2026-12-14",
+          "lectureLabel": "06"
+        },
+        {
+          "d": null,
+          "duration1x": 6620,
+          "duration15x": 4413,
+          "scheduledDate": "2026-12-15",
+          "lectureLabel": "07"
+        },
+        {
+          "d": null,
+          "duration1x": 4129,
+          "duration15x": 2753,
+          "scheduledDate": "2026-12-15",
+          "lectureLabel": "08"
+        },
+        {
+          "d": null,
+          "duration1x": 2765,
+          "duration15x": 1843,
+          "scheduledDate": "2026-12-15",
+          "lectureLabel": "09"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26C03",
+      "sub": "C",
+      "name": "Classification of Elements and Periodicity in Properties",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/inorganic-chemistry-by-amitabh-sharma-sir-939181/subject-topics/ch-01---periodic-table-725782",
+      "sourceOrder": 3,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 7338,
+          "duration15x": 4892,
+          "scheduledDate": "2026-12-16",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 7056,
+          "duration15x": 4704,
+          "scheduledDate": "2026-12-17",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 7606,
+          "duration15x": 5071,
+          "scheduledDate": "2026-12-18",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 7092,
+          "duration15x": 4728,
+          "scheduledDate": "2026-12-19",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 7388,
+          "duration15x": 4925,
+          "scheduledDate": "2026-12-20",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 7400,
+          "duration15x": 4933,
+          "scheduledDate": "2026-12-21",
+          "lectureLabel": "06"
+        },
+        {
+          "d": null,
+          "duration1x": 7834,
+          "duration15x": 5223,
+          "scheduledDate": "2026-12-21",
+          "lectureLabel": "07"
+        },
+        {
+          "d": null,
+          "duration1x": 6572,
+          "duration15x": 4381,
+          "scheduledDate": "2026-12-22",
+          "lectureLabel": "08"
+        },
+        {
+          "d": null,
+          "duration1x": 7184,
+          "duration15x": 4789,
+          "scheduledDate": "2026-12-23",
+          "lectureLabel": "09"
+        },
+        {
+          "d": null,
+          "duration1x": 7020,
+          "duration15x": 4680,
+          "scheduledDate": "2026-12-24",
+          "lectureLabel": "10"
+        },
+        {
+          "d": null,
+          "duration1x": 7263,
+          "duration15x": 4842,
+          "scheduledDate": "2026-12-25",
+          "lectureLabel": "11"
+        },
+        {
+          "d": null,
+          "duration1x": 6860,
+          "duration15x": 4573,
+          "scheduledDate": "2026-12-26",
+          "lectureLabel": "12"
+        },
+        {
+          "d": null,
+          "duration1x": 8018,
+          "duration15x": 5345,
+          "scheduledDate": "2026-12-27",
+          "lectureLabel": "13"
+        },
+        {
+          "d": null,
+          "duration1x": 5496,
+          "duration15x": 3664,
+          "scheduledDate": "2026-12-28",
+          "lectureLabel": "14"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26C04",
+      "sub": "C",
+      "name": "Chemical Bonding and Molecular Structure",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/inorganic-chemistry-by-amitabh-sharma-sir-939181/subject-topics/ch-02---chemical-bonding-and-molecular-structure-643042",
+      "sourceOrder": 4,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 7816,
+          "duration15x": 5211,
+          "scheduledDate": "2026-12-29",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 6834,
+          "duration15x": 4556,
+          "scheduledDate": "2026-12-30",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 7012,
+          "duration15x": 4675,
+          "scheduledDate": "2026-12-31",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 6780,
+          "duration15x": 4520,
+          "scheduledDate": "2027-01-01",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 7496,
+          "duration15x": 4997,
+          "scheduledDate": "2027-01-02",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 7208,
+          "duration15x": 4805,
+          "scheduledDate": "2027-01-03",
+          "lectureLabel": "06"
+        },
+        {
+          "d": null,
+          "duration1x": 7432,
+          "duration15x": 4955,
+          "scheduledDate": "2027-01-04",
+          "lectureLabel": "07"
+        },
+        {
+          "d": null,
+          "duration1x": 7370,
+          "duration15x": 4913,
+          "scheduledDate": "2027-01-04",
+          "lectureLabel": "08"
+        },
+        {
+          "d": null,
+          "duration1x": 7408,
+          "duration15x": 4939,
+          "scheduledDate": "2027-01-05",
+          "lectureLabel": "09"
+        },
+        {
+          "d": null,
+          "duration1x": 7000,
+          "duration15x": 4667,
+          "scheduledDate": "2027-01-06",
+          "lectureLabel": "10"
+        },
+        {
+          "d": null,
+          "duration1x": 7056,
+          "duration15x": 4704,
+          "scheduledDate": "2027-01-07",
+          "lectureLabel": "11"
+        },
+        {
+          "d": null,
+          "duration1x": 6810,
+          "duration15x": 4540,
+          "scheduledDate": "2027-01-08",
+          "lectureLabel": "12"
+        },
+        {
+          "d": null,
+          "duration1x": 7404,
+          "duration15x": 4936,
+          "scheduledDate": "2027-01-09",
+          "lectureLabel": "13"
+        },
+        {
+          "d": null,
+          "duration1x": 8272,
+          "duration15x": 5515,
+          "scheduledDate": "2027-01-10",
+          "lectureLabel": "14"
+        },
+        {
+          "d": null,
+          "duration1x": 8196,
+          "duration15x": 5464,
+          "scheduledDate": "2027-01-11",
+          "lectureLabel": "15"
+        },
+        {
+          "d": null,
+          "duration1x": 7214,
+          "duration15x": 4809,
+          "scheduledDate": "2027-01-11",
+          "lectureLabel": "16"
+        },
+        {
+          "d": null,
+          "duration1x": 9420,
+          "duration15x": 6280,
+          "scheduledDate": "2027-01-12",
+          "lectureLabel": "17"
+        },
+        {
+          "d": null,
+          "duration1x": 7591,
+          "duration15x": 5061,
+          "scheduledDate": "2027-01-13",
+          "lectureLabel": "18"
+        },
+        {
+          "d": null,
+          "duration1x": 4512,
+          "duration15x": 3008,
+          "scheduledDate": "2027-01-14",
+          "lectureLabel": "19"
+        },
+        {
+          "d": null,
+          "duration1x": 8744,
+          "duration15x": 5829,
+          "scheduledDate": "2027-01-15",
+          "lectureLabel": "20"
+        },
+        {
+          "d": null,
+          "duration1x": 6654,
+          "duration15x": 4436,
+          "scheduledDate": "2027-01-16",
+          "lectureLabel": "21"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26C05",
+      "sub": "C",
+      "name": "IUPAC Nomenclature",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/organic-chemistry-by-rohit-agarwal-sir-134847/subject-topics/ch-01---iupac-nomenclature-617640",
+      "sourceOrder": 5,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 7500,
+          "duration15x": 5000,
+          "scheduledDate": "2027-01-17",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 7424,
+          "duration15x": 4949,
+          "scheduledDate": "2027-01-18",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 7364,
+          "duration15x": 4909,
+          "scheduledDate": "2027-01-19",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 7126,
+          "duration15x": 4751,
+          "scheduledDate": "2027-01-20",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 7468,
+          "duration15x": 4979,
+          "scheduledDate": "2027-01-21",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 7592,
+          "duration15x": 5061,
+          "scheduledDate": "2027-01-22",
+          "lectureLabel": "06"
+        },
+        {
+          "d": null,
+          "duration1x": 7000,
+          "duration15x": 4667,
+          "scheduledDate": "2027-01-23",
+          "lectureLabel": "07"
+        },
+        {
+          "d": null,
+          "duration1x": 7394,
+          "duration15x": 4929,
+          "scheduledDate": "2027-01-24",
+          "lectureLabel": "08"
+        },
+        {
+          "d": null,
+          "duration1x": 7024,
+          "duration15x": 4683,
+          "scheduledDate": "2027-01-25",
+          "lectureLabel": "09"
+        },
+        {
+          "d": null,
+          "duration1x": 7148,
+          "duration15x": 4765,
+          "scheduledDate": "2027-01-26",
+          "lectureLabel": "10"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26C06",
+      "sub": "C",
+      "name": "General Organic Chemistry",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/organic-chemistry-by-rohit-agarwal-sir-134847/subject-topics/ch-02---general-organic-chemistry-801933",
+      "sourceOrder": 6,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 7444,
+          "duration15x": 4963,
+          "scheduledDate": "2027-01-27",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 8280,
+          "duration15x": 5520,
+          "scheduledDate": "2027-01-28",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 5336,
+          "duration15x": 3557,
+          "scheduledDate": "2027-01-29",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 7948,
+          "duration15x": 5299,
+          "scheduledDate": "2027-01-30",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 7438,
+          "duration15x": 4959,
+          "scheduledDate": "2027-01-30",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 4300,
+          "duration15x": 2867,
+          "scheduledDate": "2027-01-31",
+          "lectureLabel": "06"
+        },
+        {
+          "d": null,
+          "duration1x": 6404,
+          "duration15x": 4269,
+          "scheduledDate": "2027-02-01",
+          "lectureLabel": "07"
+        },
+        {
+          "d": null,
+          "duration1x": 3037,
+          "duration15x": 2025,
+          "scheduledDate": "2027-02-01",
+          "lectureLabel": "08"
+        },
+        {
+          "d": null,
+          "duration1x": 6578,
+          "duration15x": 4385,
+          "scheduledDate": "2027-02-02",
+          "lectureLabel": "09"
+        },
+        {
+          "d": null,
+          "duration1x": 6871,
+          "duration15x": 4581,
+          "scheduledDate": "2027-02-03",
+          "lectureLabel": "10"
+        },
+        {
+          "d": null,
+          "duration1x": 7496,
+          "duration15x": 4997,
+          "scheduledDate": "2027-02-04",
+          "lectureLabel": "11"
+        },
+        {
+          "d": null,
+          "duration1x": 7516,
+          "duration15x": 5011,
+          "scheduledDate": "2027-02-05",
+          "lectureLabel": "12"
+        },
+        {
+          "d": null,
+          "duration1x": 7386,
+          "duration15x": 4924,
+          "scheduledDate": "2027-02-06",
+          "lectureLabel": "13"
+        },
+        {
+          "d": null,
+          "duration1x": 7460,
+          "duration15x": 4973,
+          "scheduledDate": "2027-02-07",
+          "lectureLabel": "14"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26C07",
+      "sub": "C",
+      "name": "Isomerism",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/organic-chemistry-by-rohit-agarwal-sir-134847/subject-topics/ch-03---isomerism-584609",
+      "sourceOrder": 7,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 7120,
+          "duration15x": 4747,
+          "scheduledDate": "2027-02-08",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 7368,
+          "duration15x": 4912,
+          "scheduledDate": "2027-02-09",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 7640,
+          "duration15x": 5093,
+          "scheduledDate": "2027-02-09",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 8454,
+          "duration15x": 5636,
+          "scheduledDate": "2027-02-10",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 6840,
+          "duration15x": 4560,
+          "scheduledDate": "2027-02-10",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 7172,
+          "duration15x": 4781,
+          "scheduledDate": "2027-02-11",
+          "lectureLabel": "06"
+        },
+        {
+          "d": null,
+          "duration1x": 7402,
+          "duration15x": 4935,
+          "scheduledDate": "2027-02-12",
+          "lectureLabel": "07"
+        },
+        {
+          "d": null,
+          "duration1x": 7328,
+          "duration15x": 4885,
+          "scheduledDate": "2027-02-13",
+          "lectureLabel": "08"
+        },
+        {
+          "d": null,
+          "duration1x": 7404,
+          "duration15x": 4936,
+          "scheduledDate": "2027-02-14",
+          "lectureLabel": "09"
+        },
+        {
+          "d": null,
+          "duration1x": 6692,
+          "duration15x": 4461,
+          "scheduledDate": "2027-02-15",
+          "lectureLabel": "10"
+        },
+        {
+          "d": null,
+          "duration1x": 7548,
+          "duration15x": 5032,
+          "scheduledDate": "2027-02-16",
+          "lectureLabel": "11"
+        },
+        {
+          "d": null,
+          "duration1x": 7164,
+          "duration15x": 4776,
+          "scheduledDate": "2027-02-16",
+          "lectureLabel": "12"
+        },
+        {
+          "d": null,
+          "duration1x": 6448,
+          "duration15x": 4299,
+          "scheduledDate": "2027-02-17",
+          "lectureLabel": "13"
+        },
+        {
+          "d": null,
+          "duration1x": 7732,
+          "duration15x": 5155,
+          "scheduledDate": "2027-02-18",
+          "lectureLabel": "14"
+        },
+        {
+          "d": null,
+          "duration1x": 7144,
+          "duration15x": 4763,
+          "scheduledDate": "2027-02-19",
+          "lectureLabel": "15"
+        },
+        {
+          "d": null,
+          "duration1x": 6736,
+          "duration15x": 4491,
+          "scheduledDate": "2027-02-20",
+          "lectureLabel": "16"
+        },
+        {
+          "d": null,
+          "duration1x": 7368,
+          "duration15x": 4912,
+          "scheduledDate": "2027-02-20",
+          "lectureLabel": "17"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26C08",
+      "sub": "C",
+      "name": "Hydrocarbons",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/organic-chemistry-by-rohit-agarwal-sir-134847/subject-topics/ch-04---hydrocarbon-242653",
+      "sourceOrder": 8,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 7332,
+          "duration15x": 4888,
+          "scheduledDate": "2027-02-21",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 7346,
+          "duration15x": 4897,
+          "scheduledDate": "2027-02-22",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 5864,
+          "duration15x": 3909,
+          "scheduledDate": "2027-02-23",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 7404,
+          "duration15x": 4936,
+          "scheduledDate": "2027-02-24",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 7512,
+          "duration15x": 5008,
+          "scheduledDate": "2027-02-25",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 7276,
+          "duration15x": 4851,
+          "scheduledDate": "2027-02-25",
+          "lectureLabel": "06"
+        },
+        {
+          "d": null,
+          "duration1x": 7652,
+          "duration15x": 5101,
+          "scheduledDate": "2027-02-26",
+          "lectureLabel": "07"
+        },
+        {
+          "d": null,
+          "duration1x": 7556,
+          "duration15x": 5037,
+          "scheduledDate": "2027-02-27",
+          "lectureLabel": "08"
+        },
+        {
+          "d": null,
+          "duration1x": 7432,
+          "duration15x": 4955,
+          "scheduledDate": "2027-02-27",
+          "lectureLabel": "09"
+        },
+        {
+          "d": null,
+          "duration1x": 8080,
+          "duration15x": 5387,
+          "scheduledDate": "2027-02-28",
+          "lectureLabel": "10"
+        },
+        {
+          "d": null,
+          "duration1x": 5834,
+          "duration15x": 3889,
+          "scheduledDate": "2027-03-01",
+          "lectureLabel": "11"
+        },
+        {
+          "d": null,
+          "duration1x": 5302,
+          "duration15x": 3535,
+          "scheduledDate": "2027-03-01",
+          "lectureLabel": "12"
+        },
+        {
+          "d": null,
+          "duration1x": 7244,
+          "duration15x": 4829,
+          "scheduledDate": "2027-03-02",
+          "lectureLabel": "13"
+        },
+        {
+          "d": null,
+          "duration1x": 7148,
+          "duration15x": 4765,
+          "scheduledDate": "2027-03-03",
+          "lectureLabel": "14"
+        },
+        {
+          "d": null,
+          "duration1x": 7304,
+          "duration15x": 4869,
+          "scheduledDate": "2027-03-04",
+          "lectureLabel": "15"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26C09",
+      "sub": "C",
+      "name": "States of Matter",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/physical-chemistry-by-faisal-razaq-sir-693860/subject-topics/ch-11---states-of-matter-781339",
+      "sourceOrder": 9,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 11455,
+          "duration15x": 7637,
+          "scheduledDate": "2027-03-05",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 13664,
+          "duration15x": 9109,
+          "scheduledDate": "2027-03-06",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 14046,
+          "duration15x": 9364,
+          "scheduledDate": "2027-03-07",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 12483,
+          "duration15x": 8322,
+          "scheduledDate": "2027-03-08",
+          "lectureLabel": "04"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26C10",
+      "sub": "C",
+      "name": "Thermodynamics",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/physical-chemistry-by-faisal-razaq-sir-693860/subject-topics/ch--05---thermodynamics-288204",
+      "sourceOrder": 10,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 6912,
+          "duration15x": 4608,
+          "scheduledDate": "2027-03-08",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 6850,
+          "duration15x": 4567,
+          "scheduledDate": "2027-03-09",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 6768,
+          "duration15x": 4512,
+          "scheduledDate": "2027-03-10",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 6408,
+          "duration15x": 4272,
+          "scheduledDate": "2027-03-11",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 6740,
+          "duration15x": 4493,
+          "scheduledDate": "2027-03-12",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 6696,
+          "duration15x": 4464,
+          "scheduledDate": "2027-03-13",
+          "lectureLabel": "06"
+        },
+        {
+          "d": null,
+          "duration1x": 6594,
+          "duration15x": 4396,
+          "scheduledDate": "2027-03-14",
+          "lectureLabel": "07"
+        },
+        {
+          "d": null,
+          "duration1x": 7172,
+          "duration15x": 4781,
+          "scheduledDate": "2027-03-14",
+          "lectureLabel": "08"
+        },
+        {
+          "d": null,
+          "duration1x": 6720,
+          "duration15x": 4480,
+          "scheduledDate": "2027-03-15",
+          "lectureLabel": "09"
+        },
+        {
+          "d": null,
+          "duration1x": 6332,
+          "duration15x": 4221,
+          "scheduledDate": "2027-03-16",
+          "lectureLabel": "10"
+        },
+        {
+          "d": null,
+          "duration1x": 6612,
+          "duration15x": 4408,
+          "scheduledDate": "2027-03-16",
+          "lectureLabel": "11"
+        },
+        {
+          "d": null,
+          "duration1x": 6752,
+          "duration15x": 4501,
+          "scheduledDate": "2027-03-17",
+          "lectureLabel": "12"
+        },
+        {
+          "d": null,
+          "duration1x": 6728,
+          "duration15x": 4485,
+          "scheduledDate": "2027-03-18",
+          "lectureLabel": "13"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26C11",
+      "sub": "C",
+      "name": "Chemical Equilibrium",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/physical-chemistry-by-faisal-razaq-sir-693860/subject-topics/ch-06--chemical-equilibrium-190775",
+      "sourceOrder": 11,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 6696,
+          "duration15x": 4464,
+          "scheduledDate": "2027-03-19",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 6572,
+          "duration15x": 4381,
+          "scheduledDate": "2027-03-19",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 6844,
+          "duration15x": 4563,
+          "scheduledDate": "2027-03-20",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 7048,
+          "duration15x": 4699,
+          "scheduledDate": "2027-03-21",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 6872,
+          "duration15x": 4581,
+          "scheduledDate": "2027-03-22",
+          "lectureLabel": "05"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26C12",
+      "sub": "C",
+      "name": "Ionic Equilibrium",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/physical-chemistry-by-faisal-razaq-sir-693860/subject-topics/ch-07---ionic-equilibrium-757246",
+      "sourceOrder": 12,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 7356,
+          "duration15x": 4904,
+          "scheduledDate": "2027-03-22",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 8134,
+          "duration15x": 5423,
+          "scheduledDate": "2027-03-23",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 8100,
+          "duration15x": 5400,
+          "scheduledDate": "2027-03-23",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 8442,
+          "duration15x": 5628,
+          "scheduledDate": "2027-03-24",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 10868,
+          "duration15x": 7245,
+          "scheduledDate": "2027-03-25",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 10692,
+          "duration15x": 7128,
+          "scheduledDate": "2027-03-26",
+          "lectureLabel": "06"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26C13",
+      "sub": "C",
+      "name": "Redox Reactions",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/physical-chemistry-by-faisal-razaq-sir-693860/subject-topics/ch--02---redox-reaction-681277",
+      "sourceOrder": 13,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 6786,
+          "duration15x": 4524,
+          "scheduledDate": "2027-03-27",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 7396,
+          "duration15x": 4931,
+          "scheduledDate": "2027-03-27",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 6736,
+          "duration15x": 4491,
+          "scheduledDate": "2027-03-28",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 6582,
+          "duration15x": 4388,
+          "scheduledDate": "2027-03-28",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 6776,
+          "duration15x": 4517,
+          "scheduledDate": "2027-03-29",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 6632,
+          "duration15x": 4421,
+          "scheduledDate": "2027-03-29",
+          "lectureLabel": "06"
+        },
+        {
+          "d": null,
+          "duration1x": 6812,
+          "duration15x": 4541,
+          "scheduledDate": "2027-03-30",
+          "lectureLabel": "07"
+        },
+        {
+          "d": null,
+          "duration1x": 1817,
+          "duration15x": 1211,
+          "scheduledDate": "2027-03-30",
+          "lectureLabel": "08"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26C14",
+      "sub": "C",
+      "name": "Hydrogen and Its Compounds",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/inorganic-chemistry-by-amitabh-sharma-sir-939181/subject-topics/ch-08---hydrogen-and-its-compound-912653",
+      "sourceOrder": 14,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 5965,
+          "duration15x": 3977,
+          "scheduledDate": "2027-03-31",
+          "lectureLabel": "01"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26C15",
+      "sub": "C",
+      "name": "S Block Elements",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/inorganic-chemistry-by-amitabh-sharma-sir-939181/subject-topics/ch-07---s-block-element-152259",
+      "sourceOrder": 15,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 5100,
+          "duration15x": 3400,
+          "scheduledDate": "2027-03-31",
+          "lectureLabel": "01"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26C16",
+      "sub": "C",
+      "name": "P Block Elements",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/inorganic-chemistry-by-amitabh-sharma-sir-939181/subject-topics/ch-05---p-block-elements-243293",
+      "sourceOrder": 16,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 9880,
+          "duration15x": 6587,
+          "scheduledDate": "2027-04-01",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 7924,
+          "duration15x": 5283,
+          "scheduledDate": "2027-04-01",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 6981,
+          "duration15x": 4654,
+          "scheduledDate": "2027-04-01",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 8415,
+          "duration15x": 5610,
+          "scheduledDate": "2027-04-02",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 8424,
+          "duration15x": 5616,
+          "scheduledDate": "2027-04-02",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 3679,
+          "duration15x": 2453,
+          "scheduledDate": "2027-04-02",
+          "lectureLabel": "06"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26C17",
+      "sub": "C",
+      "name": "The Solid State",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/physical-chemistry-by-faisal-razaq-sir-693860/subject-topics/ch---10---the-solid-state-250084",
+      "sourceOrder": 17,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 6075,
+          "duration15x": 4050,
+          "scheduledDate": "2027-04-03",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 4946,
+          "duration15x": 3297,
+          "scheduledDate": "2027-04-03",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 4989,
+          "duration15x": 3326,
+          "scheduledDate": "2027-04-04",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 5102,
+          "duration15x": 3401,
+          "scheduledDate": "2027-04-04",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 6085,
+          "duration15x": 4057,
+          "scheduledDate": "2027-04-05",
+          "lectureLabel": "05"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26C18",
+      "sub": "C",
+      "name": "Solutions",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/physical-chemistry-by-faisal-razaq-sir-693860/subject-topics/ch--03---solutions-135970",
+      "sourceOrder": 18,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 5886,
+          "duration15x": 3924,
+          "scheduledDate": "2027-04-05",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 6446,
+          "duration15x": 4297,
+          "scheduledDate": "2027-04-06",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 6572,
+          "duration15x": 4381,
+          "scheduledDate": "2027-04-06",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 6558,
+          "duration15x": 4372,
+          "scheduledDate": "2027-04-07",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 6618,
+          "duration15x": 4412,
+          "scheduledDate": "2027-04-07",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 6370,
+          "duration15x": 4247,
+          "scheduledDate": "2027-04-08",
+          "lectureLabel": "06"
+        },
+        {
+          "d": null,
+          "duration1x": 6908,
+          "duration15x": 4605,
+          "scheduledDate": "2027-04-08",
+          "lectureLabel": "07"
+        },
+        {
+          "d": null,
+          "duration1x": 7164,
+          "duration15x": 4776,
+          "scheduledDate": "2027-04-09",
+          "lectureLabel": "08"
+        },
+        {
+          "d": null,
+          "duration1x": 6710,
+          "duration15x": 4473,
+          "scheduledDate": "2027-04-09",
+          "lectureLabel": "09"
+        },
+        {
+          "d": null,
+          "duration1x": 6712,
+          "duration15x": 4475,
+          "scheduledDate": "2027-04-09",
+          "lectureLabel": "10"
+        },
+        {
+          "d": null,
+          "duration1x": 2803,
+          "duration15x": 1869,
+          "scheduledDate": "2027-04-09",
+          "lectureLabel": "11 — Homework Discussion"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26C19",
+      "sub": "C",
+      "name": "Electrochemistry",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/physical-chemistry-by-faisal-razaq-sir-693860/subject-topics/ch-09---electrochemistry-436281",
+      "sourceOrder": 19,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 4005,
+          "duration15x": 2670,
+          "scheduledDate": "2027-04-10",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 4711,
+          "duration15x": 3141,
+          "scheduledDate": "2027-04-10",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 3965,
+          "duration15x": 2643,
+          "scheduledDate": "2027-04-11",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 3838,
+          "duration15x": 2559,
+          "scheduledDate": "2027-04-11",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 5522,
+          "duration15x": 3681,
+          "scheduledDate": "2027-04-11",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 6157,
+          "duration15x": 4105,
+          "scheduledDate": "2027-04-12",
+          "lectureLabel": "06"
+        },
+        {
+          "d": null,
+          "duration1x": 3482,
+          "duration15x": 2321,
+          "scheduledDate": "2027-04-12",
+          "lectureLabel": "07"
+        },
+        {
+          "d": null,
+          "duration1x": 6946,
+          "duration15x": 4631,
+          "scheduledDate": "2027-04-13",
+          "lectureLabel": "08"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26C20",
+      "sub": "C",
+      "name": "Chemical Kinetics",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/physical-chemistry-by-faisal-razaq-sir-693860/subject-topics/ch--04---chemical-kinetics-529502",
+      "sourceOrder": 20,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 6620,
+          "duration15x": 4413,
+          "scheduledDate": "2027-04-13",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 6448,
+          "duration15x": 4299,
+          "scheduledDate": "2027-04-14",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 6272,
+          "duration15x": 4181,
+          "scheduledDate": "2027-04-14",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 6698,
+          "duration15x": 4465,
+          "scheduledDate": "2027-04-15",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 6542,
+          "duration15x": 4361,
+          "scheduledDate": "2027-04-15",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 6420,
+          "duration15x": 4280,
+          "scheduledDate": "2027-04-16",
+          "lectureLabel": "06"
+        },
+        {
+          "d": null,
+          "duration1x": 6708,
+          "duration15x": 4472,
+          "scheduledDate": "2027-04-16",
+          "lectureLabel": "07"
+        },
+        {
+          "d": null,
+          "duration1x": 6444,
+          "duration15x": 4296,
+          "scheduledDate": "2027-04-17",
+          "lectureLabel": "08"
+        },
+        {
+          "d": null,
+          "duration1x": 5657,
+          "duration15x": 3771,
+          "scheduledDate": "2027-04-17",
+          "lectureLabel": "09"
+        },
+        {
+          "d": null,
+          "duration1x": 4193,
+          "duration15x": 2795,
+          "scheduledDate": "2027-04-18",
+          "lectureLabel": "10 — Homework Discussion"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26C21",
+      "sub": "C",
+      "name": "Surface Chemistry",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/physical-chemistry-by-faisal-razaq-sir-693860/subject-topics/ch-12---surface-chemistry-423274",
+      "sourceOrder": 21,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 8600,
+          "duration15x": 5733,
+          "scheduledDate": "2027-04-18",
+          "lectureLabel": "01"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26C22",
+      "sub": "C",
+      "name": "Haloalkanes and Haloarenes",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/organic-chemistry-by-rohit-agarwal-sir-134847/subject-topics/ch-05---haloalkane-and-haloarene-355209",
+      "sourceOrder": 22,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 7092,
+          "duration15x": 4728,
+          "scheduledDate": "2027-04-18",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 7380,
+          "duration15x": 4920,
+          "scheduledDate": "2027-04-19",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 7228,
+          "duration15x": 4819,
+          "scheduledDate": "2027-04-19",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 7592,
+          "duration15x": 5061,
+          "scheduledDate": "2027-04-20",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 9000,
+          "duration15x": 6000,
+          "scheduledDate": "2027-04-20",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 6524,
+          "duration15x": 4349,
+          "scheduledDate": "2027-04-21",
+          "lectureLabel": "06"
+        },
+        {
+          "d": null,
+          "duration1x": 7260,
+          "duration15x": 4840,
+          "scheduledDate": "2027-04-21",
+          "lectureLabel": "07"
+        },
+        {
+          "d": null,
+          "duration1x": 6896,
+          "duration15x": 4597,
+          "scheduledDate": "2027-04-22",
+          "lectureLabel": "08"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26C23",
+      "sub": "C",
+      "name": "Alcohols, Phenols and Ethers",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/organic-chemistry-by-rohit-agarwal-sir-134847/subject-topics/ch-06---alcohols--phenols-and-ethers-254683",
+      "sourceOrder": 23,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 7840,
+          "duration15x": 5227,
+          "scheduledDate": "2027-04-22",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 7172,
+          "duration15x": 4781,
+          "scheduledDate": "2027-04-23",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 7191,
+          "duration15x": 4794,
+          "scheduledDate": "2027-04-23",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 4154,
+          "duration15x": 2769,
+          "scheduledDate": "2027-04-23",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 4520,
+          "duration15x": 3013,
+          "scheduledDate": "2027-04-23",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 3055,
+          "duration15x": 2037,
+          "scheduledDate": "2027-04-24",
+          "lectureLabel": "06"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26C24",
+      "sub": "C",
+      "name": "D and F Block Elements",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/inorganic-chemistry-by-amitabh-sharma-sir-939181/subject-topics/ch-06---d-and-f-block-elements-519320",
+      "sourceOrder": 24,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 6997,
+          "duration15x": 4665,
+          "scheduledDate": "2027-04-24",
+          "lectureLabel": "01"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26C25",
+      "sub": "C",
+      "name": "Coordination Compounds",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/inorganic-chemistry-by-amitabh-sharma-sir-939181/subject-topics/ch-03---coordination-compounds-294874",
+      "sourceOrder": 25,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 7215,
+          "duration15x": 4810,
+          "scheduledDate": "2027-04-25",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 6652,
+          "duration15x": 4435,
+          "scheduledDate": "2027-04-25",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 7076,
+          "duration15x": 4717,
+          "scheduledDate": "2027-04-26",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 7268,
+          "duration15x": 4845,
+          "scheduledDate": "2027-04-26",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 7496,
+          "duration15x": 4997,
+          "scheduledDate": "2027-04-27",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 6796,
+          "duration15x": 4531,
+          "scheduledDate": "2027-04-27",
+          "lectureLabel": "06"
+        },
+        {
+          "d": null,
+          "duration1x": 7362,
+          "duration15x": 4908,
+          "scheduledDate": "2027-04-28",
+          "lectureLabel": "07"
+        },
+        {
+          "d": null,
+          "duration1x": 6480,
+          "duration15x": 4320,
+          "scheduledDate": "2027-04-28",
+          "lectureLabel": "08"
+        },
+        {
+          "d": null,
+          "duration1x": 7198,
+          "duration15x": 4799,
+          "scheduledDate": "2027-04-28",
+          "lectureLabel": "09"
+        },
+        {
+          "d": null,
+          "duration1x": 6796,
+          "duration15x": 4531,
+          "scheduledDate": "2027-04-29",
+          "lectureLabel": "10"
+        },
+        {
+          "d": null,
+          "duration1x": 7486,
+          "duration15x": 4991,
+          "scheduledDate": "2027-04-29",
+          "lectureLabel": "11"
+        },
+        {
+          "d": null,
+          "duration1x": 5003,
+          "duration15x": 3335,
+          "scheduledDate": "2027-04-30",
+          "lectureLabel": "12"
+        },
+        {
+          "d": null,
+          "duration1x": 7668,
+          "duration15x": 5112,
+          "scheduledDate": "2027-04-30",
+          "lectureLabel": "13"
+        },
+        {
+          "d": null,
+          "duration1x": 6896,
+          "duration15x": 4597,
+          "scheduledDate": "2027-05-01",
+          "lectureLabel": "14"
+        },
+        {
+          "d": null,
+          "duration1x": 7696,
+          "duration15x": 5131,
+          "scheduledDate": "2027-05-01",
+          "lectureLabel": "15"
+        },
+        {
+          "d": null,
+          "duration1x": 7448,
+          "duration15x": 4965,
+          "scheduledDate": "2027-05-02",
+          "lectureLabel": "16"
+        },
+        {
+          "d": null,
+          "duration1x": 4156,
+          "duration15x": 2771,
+          "scheduledDate": "2027-05-02",
+          "lectureLabel": "17"
+        },
+        {
+          "d": null,
+          "duration1x": 5946,
+          "duration15x": 3964,
+          "scheduledDate": "2027-05-03",
+          "lectureLabel": "18"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26C26",
+      "sub": "C",
+      "name": "Aldehydes, Ketones and Carboxylic Acids",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/organic-chemistry-by-rohit-agarwal-sir-134847/subject-topics/ch-07---aldehydes--ketones-and-carboxylic-acids-305901",
+      "sourceOrder": 26,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 7248,
+          "duration15x": 4832,
+          "scheduledDate": "2027-05-03",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 7090,
+          "duration15x": 4727,
+          "scheduledDate": "2027-05-04",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 7404,
+          "duration15x": 4936,
+          "scheduledDate": "2027-05-04",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 4228,
+          "duration15x": 2819,
+          "scheduledDate": "2027-05-05",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 4395,
+          "duration15x": 2930,
+          "scheduledDate": "2027-05-05",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 7268,
+          "duration15x": 4845,
+          "scheduledDate": "2027-05-05",
+          "lectureLabel": "06"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26C27",
+      "sub": "C",
+      "name": "Amines",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/organic-chemistry-by-rohit-agarwal-sir-134847/subject-topics/ch-08---amines-263924",
+      "sourceOrder": 27,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 7663,
+          "duration15x": 5109,
+          "scheduledDate": "2027-05-06",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 7698,
+          "duration15x": 5132,
+          "scheduledDate": "2027-05-06",
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26C28",
+      "sub": "C",
+      "name": "General Principles and Processes of Isolation of Metals",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/inorganic-chemistry-by-amitabh-sharma-sir-939181/subject-topics/ch-09---metallurgy-233987",
+      "sourceOrder": 28,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 3932,
+          "duration15x": 2621,
+          "scheduledDate": "2027-05-07",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 18889,
+          "duration15x": 12593,
+          "scheduledDate": "2027-05-07",
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26C29",
+      "sub": "C",
+      "name": "Biomolecules",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/organic-chemistry-by-rohit-agarwal-sir-134847/subject-topics/ch-09---biomolecules-969258",
+      "sourceOrder": 29,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 6412,
+          "duration15x": 4275,
+          "scheduledDate": "2027-05-08",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 7324,
+          "duration15x": 4883,
+          "scheduledDate": "2027-05-08",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 5934,
+          "duration15x": 3956,
+          "scheduledDate": "2027-05-09",
+          "lectureLabel": "03"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26C30",
+      "sub": "C",
+      "name": "Polymers",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/organic-chemistry-by-rohit-agarwal-sir-134847/subject-topics/ch-10---polymers-183956",
+      "sourceOrder": 30,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 4379,
+          "duration15x": 2919,
+          "scheduledDate": "2027-05-09",
+          "lectureLabel": "01"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26C31",
+      "sub": "C",
+      "name": "Salt Analysis",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/inorganic-chemistry-by-amitabh-sharma-sir-939181/subject-topics/ch-04---salt-analysis-959833",
+      "sourceOrder": 31,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 7324,
+          "duration15x": 4883,
+          "scheduledDate": "2027-05-10",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 7544,
+          "duration15x": 5029,
+          "scheduledDate": "2027-05-10",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 7296,
+          "duration15x": 4864,
+          "scheduledDate": "2027-05-11",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 7304,
+          "duration15x": 4869,
+          "scheduledDate": "2027-05-11",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 7336,
+          "duration15x": 4891,
+          "scheduledDate": "2027-05-12",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 6880,
+          "duration15x": 4587,
+          "scheduledDate": "2027-05-12",
+          "lectureLabel": "06"
+        },
+        {
+          "d": null,
+          "duration1x": 7228,
+          "duration15x": 4819,
+          "scheduledDate": "2027-05-13",
+          "lectureLabel": "07"
+        },
+        {
+          "d": null,
+          "duration1x": 10188,
+          "duration15x": 6792,
+          "scheduledDate": "2027-05-13",
+          "lectureLabel": "08"
+        },
+        {
+          "d": null,
+          "duration1x": 4899,
+          "duration15x": 3266,
+          "scheduledDate": "2027-05-14",
+          "lectureLabel": "09"
+        },
+        {
+          "d": null,
+          "duration1x": 10616,
+          "duration15x": 7077,
+          "scheduledDate": "2027-05-14",
+          "lectureLabel": "10"
+        },
+        {
+          "d": null,
+          "duration1x": 10284,
+          "duration15x": 6856,
+          "scheduledDate": "2027-05-14",
+          "lectureLabel": "11"
+        },
+        {
+          "d": null,
+          "duration1x": 4593,
+          "duration15x": 3062,
+          "scheduledDate": "2027-05-15",
+          "lectureLabel": "12"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26C32",
+      "sub": "C",
+      "name": "Chemistry in Everyday Life",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/organic-chemistry-by-rohit-agarwal-sir-134847/subject-topics/ch-11---chemistry-in-everyday-life-261283",
+      "sourceOrder": 32,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 2315,
+          "duration15x": 1543,
+          "scheduledDate": "2027-05-15",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 8535,
+          "duration15x": 5690,
+          "scheduledDate": "2027-05-15",
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26C33",
+      "sub": "C",
+      "name": "Environmental Chemistry",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/organic-chemistry-by-rohit-agarwal-sir-134847/subject-topics/ch-12---environmental-chemistry-580568",
+      "sourceOrder": 33,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 3946,
+          "duration15x": 2631,
+          "scheduledDate": "2027-05-15",
+          "lectureLabel": "01"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26M01",
+      "sub": "M",
+      "name": "Basic Mathematics",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/maths-by-ashish-agarwal-sir-741418/subject-topics/ch--01---basic-maths-159460",
+      "sourceOrder": 1,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 7419,
+          "duration15x": 4946,
+          "scheduledDate": "2026-11-29",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 7476,
+          "duration15x": 4984,
+          "scheduledDate": "2026-11-30",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 6510,
+          "duration15x": 4340,
+          "scheduledDate": "2026-12-01",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 9024,
+          "duration15x": 6016,
+          "scheduledDate": "2026-12-02",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 8048,
+          "duration15x": 5365,
+          "scheduledDate": "2026-12-03",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 8224,
+          "duration15x": 5483,
+          "scheduledDate": "2026-12-04",
+          "lectureLabel": "06"
+        },
+        {
+          "d": null,
+          "duration1x": 8170,
+          "duration15x": 5447,
+          "scheduledDate": "2026-12-05",
+          "lectureLabel": "07"
+        },
+        {
+          "d": null,
+          "duration1x": 8380,
+          "duration15x": 5587,
+          "scheduledDate": "2026-12-06",
+          "lectureLabel": "08"
+        },
+        {
+          "d": null,
+          "duration1x": 8616,
+          "duration15x": 5744,
+          "scheduledDate": "2026-12-07",
+          "lectureLabel": "09"
+        },
+        {
+          "d": null,
+          "duration1x": 8256,
+          "duration15x": 5504,
+          "scheduledDate": "2026-12-08",
+          "lectureLabel": "10"
+        },
+        {
+          "d": null,
+          "duration1x": 7628,
+          "duration15x": 5085,
+          "scheduledDate": "2026-12-09",
+          "lectureLabel": "11"
+        },
+        {
+          "d": null,
+          "duration1x": 8126,
+          "duration15x": 5417,
+          "scheduledDate": "2026-12-10",
+          "lectureLabel": "12"
+        },
+        {
+          "d": null,
+          "duration1x": 8202,
+          "duration15x": 5468,
+          "scheduledDate": "2026-12-11",
+          "lectureLabel": "13"
+        },
+        {
+          "d": null,
+          "duration1x": 9393,
+          "duration15x": 6262,
+          "scheduledDate": "2026-12-12",
+          "lectureLabel": "14"
+        },
+        {
+          "d": null,
+          "duration1x": 7808,
+          "duration15x": 5205,
+          "scheduledDate": "2026-12-13",
+          "lectureLabel": "15"
+        },
+        {
+          "d": null,
+          "duration1x": 9120,
+          "duration15x": 6080,
+          "scheduledDate": "2026-12-14",
+          "lectureLabel": "16"
+        },
+        {
+          "d": null,
+          "duration1x": 7408,
+          "duration15x": 4939,
+          "scheduledDate": "2026-12-15",
+          "lectureLabel": "17"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26M02",
+      "sub": "M",
+      "name": "Quadratic Equations",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/maths-by-ashish-agarwal-sir-741418/subject-topics/ch--02---quadratic-equations-271534",
+      "sourceOrder": 2,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 9280,
+          "duration15x": 6187,
+          "scheduledDate": "2026-12-16",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 10268,
+          "duration15x": 6845,
+          "scheduledDate": "2026-12-17",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 9046,
+          "duration15x": 6031,
+          "scheduledDate": "2026-12-18",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 9218,
+          "duration15x": 6145,
+          "scheduledDate": "2026-12-19",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 8948,
+          "duration15x": 5965,
+          "scheduledDate": "2026-12-20",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 10288,
+          "duration15x": 6859,
+          "scheduledDate": "2026-12-21",
+          "lectureLabel": "06"
+        },
+        {
+          "d": null,
+          "duration1x": 8932,
+          "duration15x": 5955,
+          "scheduledDate": "2026-12-22",
+          "lectureLabel": "07"
+        },
+        {
+          "d": null,
+          "duration1x": 9738,
+          "duration15x": 6492,
+          "scheduledDate": "2026-12-23",
+          "lectureLabel": "08"
+        },
+        {
+          "d": null,
+          "duration1x": 9618,
+          "duration15x": 6412,
+          "scheduledDate": "2026-12-24",
+          "lectureLabel": "09"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26M03",
+      "sub": "M",
+      "name": "Sequences and Series",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/maths-by-ashish-agarwal-sir-741418/subject-topics/ch--03---sequence-and-series-695116",
+      "sourceOrder": 3,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 8678,
+          "duration15x": 5785,
+          "scheduledDate": "2026-12-25",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 9840,
+          "duration15x": 6560,
+          "scheduledDate": "2026-12-26",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 9764,
+          "duration15x": 6509,
+          "scheduledDate": "2026-12-27",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 9736,
+          "duration15x": 6491,
+          "scheduledDate": "2026-12-28",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 8922,
+          "duration15x": 5948,
+          "scheduledDate": "2026-12-29",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 9238,
+          "duration15x": 6159,
+          "scheduledDate": "2026-12-30",
+          "lectureLabel": "06"
+        },
+        {
+          "d": null,
+          "duration1x": 10108,
+          "duration15x": 6739,
+          "scheduledDate": "2026-12-31",
+          "lectureLabel": "07"
+        },
+        {
+          "d": null,
+          "duration1x": 9348,
+          "duration15x": 6232,
+          "scheduledDate": "2027-01-01",
+          "lectureLabel": "08"
+        },
+        {
+          "d": null,
+          "duration1x": 10324,
+          "duration15x": 6883,
+          "scheduledDate": "2027-01-02",
+          "lectureLabel": "09"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26M04",
+      "sub": "M",
+      "name": "Trigonometric Functions",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/maths-by-ashish-agarwal-sir-741418/subject-topics/ch--04---trigonometric-functions-245371",
+      "sourceOrder": 4,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 10316,
+          "duration15x": 6877,
+          "scheduledDate": "2027-01-03",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 11194,
+          "duration15x": 7463,
+          "scheduledDate": "2027-01-04",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 11138,
+          "duration15x": 7425,
+          "scheduledDate": "2027-01-05",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 10236,
+          "duration15x": 6824,
+          "scheduledDate": "2027-01-06",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 9774,
+          "duration15x": 6516,
+          "scheduledDate": "2027-01-07",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 9504,
+          "duration15x": 6336,
+          "scheduledDate": "2027-01-08",
+          "lectureLabel": "06"
+        },
+        {
+          "d": null,
+          "duration1x": 10248,
+          "duration15x": 6832,
+          "scheduledDate": "2027-01-09",
+          "lectureLabel": "07"
+        },
+        {
+          "d": null,
+          "duration1x": 9398,
+          "duration15x": 6265,
+          "scheduledDate": "2027-01-10",
+          "lectureLabel": "08"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26M05",
+      "sub": "M",
+      "name": "Trigonometric Equations",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/maths-by-ashish-agarwal-sir-741418/subject-topics/ch--05---trigonometric-equation-887007",
+      "sourceOrder": 5,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 8252,
+          "duration15x": 5501,
+          "scheduledDate": "2027-01-11",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 9656,
+          "duration15x": 6437,
+          "scheduledDate": "2027-01-12",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 9464,
+          "duration15x": 6309,
+          "scheduledDate": "2027-01-13",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 9172,
+          "duration15x": 6115,
+          "scheduledDate": "2027-01-14",
+          "lectureLabel": "04"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26M13",
+      "sub": "M",
+      "name": "Solution of Triangles",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/maths-by-ashish-agarwal-sir-741418/subject-topics/ch-12---solution-of-triangle-730020",
+      "sourceOrder": 6,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 5566,
+          "duration15x": 3711,
+          "scheduledDate": "2027-01-14",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 6181,
+          "duration15x": 4121,
+          "scheduledDate": "2027-01-15",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 6423,
+          "duration15x": 4282,
+          "scheduledDate": "2027-01-16",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 5825,
+          "duration15x": 3883,
+          "scheduledDate": "2027-01-16",
+          "lectureLabel": "04"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26M07",
+      "sub": "M",
+      "name": "Permutations and Combinations",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/maths-by-ashish-agarwal-sir-741418/subject-topics/ch-06---permutations-and-combinations-418594",
+      "sourceOrder": 7,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 9892,
+          "duration15x": 6595,
+          "scheduledDate": "2027-01-17",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 8316,
+          "duration15x": 5544,
+          "scheduledDate": "2027-01-18",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 10044,
+          "duration15x": 6696,
+          "scheduledDate": "2027-01-19",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 9480,
+          "duration15x": 6320,
+          "scheduledDate": "2027-01-20",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 10832,
+          "duration15x": 7221,
+          "scheduledDate": "2027-01-21",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 10036,
+          "duration15x": 6691,
+          "scheduledDate": "2027-01-22",
+          "lectureLabel": "06"
+        },
+        {
+          "d": null,
+          "duration1x": 10380,
+          "duration15x": 6920,
+          "scheduledDate": "2027-01-23",
+          "lectureLabel": "07"
+        },
+        {
+          "d": null,
+          "duration1x": 9940,
+          "duration15x": 6627,
+          "scheduledDate": "2027-01-24",
+          "lectureLabel": "08"
+        },
+        {
+          "d": null,
+          "duration1x": 10412,
+          "duration15x": 6941,
+          "scheduledDate": "2027-01-25",
+          "lectureLabel": "09"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26M08",
+      "sub": "M",
+      "name": "Binomial Theorem",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/maths-by-ashish-agarwal-sir-741418/subject-topics/ch-07---binomial-theorem-098842",
+      "sourceOrder": 8,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 8288,
+          "duration15x": 5525,
+          "scheduledDate": "2027-01-26",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 10112,
+          "duration15x": 6741,
+          "scheduledDate": "2027-01-27",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 7512,
+          "duration15x": 5008,
+          "scheduledDate": "2027-01-28",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 9856,
+          "duration15x": 6571,
+          "scheduledDate": "2027-01-29",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 11244,
+          "duration15x": 7496,
+          "scheduledDate": "2027-01-30",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 6836,
+          "duration15x": 4557,
+          "scheduledDate": "2027-01-31",
+          "lectureLabel": "06"
+        },
+        {
+          "d": null,
+          "duration1x": 7944,
+          "duration15x": 5296,
+          "scheduledDate": "2027-02-01",
+          "lectureLabel": "07"
+        },
+        {
+          "d": null,
+          "duration1x": 6800,
+          "duration15x": 4533,
+          "scheduledDate": "2027-02-02",
+          "lectureLabel": "08"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26M09",
+      "sub": "M",
+      "name": "Complex Numbers",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/maths-by-ashish-agarwal-sir-741418/subject-topics/ch-30---complex-number-958160",
+      "sourceOrder": 9,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 9388,
+          "duration15x": 6259,
+          "scheduledDate": "2027-02-03",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 9608,
+          "duration15x": 6405,
+          "scheduledDate": "2027-02-04",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 10152,
+          "duration15x": 6768,
+          "scheduledDate": "2027-02-05",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 11116,
+          "duration15x": 7411,
+          "scheduledDate": "2027-02-06",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 9848,
+          "duration15x": 6565,
+          "scheduledDate": "2027-02-07",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 10512,
+          "duration15x": 7008,
+          "scheduledDate": "2027-02-08",
+          "lectureLabel": "06"
+        },
+        {
+          "d": null,
+          "duration1x": 11268,
+          "duration15x": 7512,
+          "scheduledDate": "2027-02-09",
+          "lectureLabel": "07"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26M14",
+      "sub": "M",
+      "name": "Straight Lines",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/maths-by-ashish-agarwal-sir-741418/subject-topics/ch-08---straight-lines-099594",
+      "sourceOrder": 10,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 8378,
+          "duration15x": 5585,
+          "scheduledDate": "2027-02-10",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 11380,
+          "duration15x": 7587,
+          "scheduledDate": "2027-02-11",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 10720,
+          "duration15x": 7147,
+          "scheduledDate": "2027-02-12",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 9852,
+          "duration15x": 6568,
+          "scheduledDate": "2027-02-13",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 10876,
+          "duration15x": 7251,
+          "scheduledDate": "2027-02-14",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 10232,
+          "duration15x": 6821,
+          "scheduledDate": "2027-02-15",
+          "lectureLabel": "06"
+        },
+        {
+          "d": null,
+          "duration1x": 10474,
+          "duration15x": 6983,
+          "scheduledDate": "2027-02-17",
+          "lectureLabel": "07"
+        },
+        {
+          "d": null,
+          "duration1x": 10564,
+          "duration15x": 7043,
+          "scheduledDate": "2027-02-18",
+          "lectureLabel": "08"
+        },
+        {
+          "d": null,
+          "duration1x": 10524,
+          "duration15x": 7016,
+          "scheduledDate": "2027-02-19",
+          "lectureLabel": "09"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26M15",
+      "sub": "M",
+      "name": "Circles",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/maths-by-ashish-agarwal-sir-741418/subject-topics/ch-09---circles-420909",
+      "sourceOrder": 11,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 10980,
+          "duration15x": 7320,
+          "scheduledDate": "2027-02-20",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 10022,
+          "duration15x": 6681,
+          "scheduledDate": "2027-02-21",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 10668,
+          "duration15x": 7112,
+          "scheduledDate": "2027-02-22",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 10536,
+          "duration15x": 7024,
+          "scheduledDate": "2027-02-23",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 10692,
+          "duration15x": 7128,
+          "scheduledDate": "2027-02-24",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 10764,
+          "duration15x": 7176,
+          "scheduledDate": "2027-02-25",
+          "lectureLabel": "06"
+        },
+        {
+          "d": null,
+          "duration1x": 8609,
+          "duration15x": 5739,
+          "scheduledDate": "2027-02-26",
+          "lectureLabel": "07"
+        },
+        {
+          "d": null,
+          "duration1x": 8820,
+          "duration15x": 5880,
+          "scheduledDate": "2027-02-27",
+          "lectureLabel": "08"
+        },
+        {
+          "d": null,
+          "duration1x": 9692,
+          "duration15x": 6461,
+          "scheduledDate": "2027-02-28",
+          "lectureLabel": "09"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26M16",
+      "sub": "M",
+      "name": "Conic Sections: Parabola",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/maths-by-ashish-agarwal-sir-741418/subject-topics/ch-10---conic-section--parabola-165573",
+      "sourceOrder": 12,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 10258,
+          "duration15x": 6839,
+          "scheduledDate": "2027-03-01",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 10244,
+          "duration15x": 6829,
+          "scheduledDate": "2027-03-02",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 9768,
+          "duration15x": 6512,
+          "scheduledDate": "2027-03-03",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 10842,
+          "duration15x": 7228,
+          "scheduledDate": "2027-03-04",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 11004,
+          "duration15x": 7336,
+          "scheduledDate": "2027-03-09",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 10944,
+          "duration15x": 7296,
+          "scheduledDate": "2027-03-10",
+          "lectureLabel": "06"
+        },
+        {
+          "d": null,
+          "duration1x": 11096,
+          "duration15x": 7397,
+          "scheduledDate": "2027-03-11",
+          "lectureLabel": "07"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26M17",
+      "sub": "M",
+      "name": "Conic Sections: Ellipse",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/maths-by-ashish-agarwal-sir-741418/subject-topics/ch-11---conic-section--ellipse-157678",
+      "sourceOrder": 13,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 10850,
+          "duration15x": 7233,
+          "scheduledDate": "2027-03-12",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 9792,
+          "duration15x": 6528,
+          "scheduledDate": "2027-03-13",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 10576,
+          "duration15x": 7051,
+          "scheduledDate": "2027-03-14",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 10430,
+          "duration15x": 6953,
+          "scheduledDate": "2027-03-15",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 8362,
+          "duration15x": 5575,
+          "scheduledDate": "2027-03-16",
+          "lectureLabel": "05"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26M18",
+      "sub": "M",
+      "name": "Conic Sections: Hyperbola",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/maths-by-ashish-agarwal-sir-741418/subject-topics/ch-13---conic-section--hyperbola-074714",
+      "sourceOrder": 14,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 8680,
+          "duration15x": 5787,
+          "scheduledDate": "2027-03-17",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 11776,
+          "duration15x": 7851,
+          "scheduledDate": "2027-03-18",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 10184,
+          "duration15x": 6789,
+          "scheduledDate": "2027-03-19",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 9948,
+          "duration15x": 6632,
+          "scheduledDate": "2027-03-20",
+          "lectureLabel": "04"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26M06",
+      "sub": "M",
+      "name": "Sets",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/maths-by-ashish-agarwal-sir-741418/subject-topics/ch-16---sets-582912",
+      "sourceOrder": 15,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 8490,
+          "duration15x": 5660,
+          "scheduledDate": "2027-03-21",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 9109,
+          "duration15x": 6073,
+          "scheduledDate": "2027-03-22",
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26M11",
+      "sub": "M",
+      "name": "Relations and Functions",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/maths-by-ashish-agarwal-sir-741418/subject-topics/ch-17---relations-and-functions-975875",
+      "sourceOrder": 16,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 10136,
+          "duration15x": 6757,
+          "scheduledDate": "2027-03-23",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 10636,
+          "duration15x": 7091,
+          "scheduledDate": "2027-03-24",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 10916,
+          "duration15x": 7277,
+          "scheduledDate": "2027-03-25",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 10152,
+          "duration15x": 6768,
+          "scheduledDate": "2027-03-26",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 9356,
+          "duration15x": 6237,
+          "scheduledDate": "2027-03-27",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 10260,
+          "duration15x": 6840,
+          "scheduledDate": "2027-03-28",
+          "lectureLabel": "06"
+        },
+        {
+          "d": null,
+          "duration1x": 9880,
+          "duration15x": 6587,
+          "scheduledDate": "2027-03-29",
+          "lectureLabel": "07"
+        },
+        {
+          "d": null,
+          "duration1x": 6108,
+          "duration15x": 4072,
+          "scheduledDate": "2027-03-29",
+          "lectureLabel": "08"
+        },
+        {
+          "d": null,
+          "duration1x": 10124,
+          "duration15x": 6749,
+          "scheduledDate": "2027-03-30",
+          "lectureLabel": "09"
+        },
+        {
+          "d": null,
+          "duration1x": 10725,
+          "duration15x": 7150,
+          "scheduledDate": "2027-03-30",
+          "lectureLabel": "10"
+        },
+        {
+          "d": null,
+          "duration1x": 11166,
+          "duration15x": 7444,
+          "scheduledDate": "2027-03-31",
+          "lectureLabel": "11"
+        },
+        {
+          "d": null,
+          "duration1x": 10092,
+          "duration15x": 6728,
+          "scheduledDate": "2027-03-31",
+          "lectureLabel": "12"
+        },
+        {
+          "d": null,
+          "duration1x": 6728,
+          "duration15x": 4485,
+          "scheduledDate": "2027-04-01",
+          "lectureLabel": "13"
+        },
+        {
+          "d": null,
+          "duration1x": 11132,
+          "duration15x": 7421,
+          "scheduledDate": "2027-04-02",
+          "lectureLabel": "14"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26M12",
+      "sub": "M",
+      "name": "Inverse Trigonometric Functions",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/maths-by-ashish-agarwal-sir-741418/subject-topics/ch-18---inverse-trigonometric-functions-304277",
+      "sourceOrder": 17,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 11080,
+          "duration15x": 7387,
+          "scheduledDate": "2027-04-03",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 10600,
+          "duration15x": 7067,
+          "scheduledDate": "2027-04-03",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 9920,
+          "duration15x": 6613,
+          "scheduledDate": "2027-04-04",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 9586,
+          "duration15x": 6391,
+          "scheduledDate": "2027-04-04",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 9805,
+          "duration15x": 6537,
+          "scheduledDate": "2027-04-05",
+          "lectureLabel": "05"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26M19",
+      "sub": "M",
+      "name": "Limits, Continuity and Differentiability",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/maths-by-ashish-agarwal-sir-741418/subject-topics/ch-19---limit--continuity-and-differentiability-501695",
+      "sourceOrder": 18,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 9926,
+          "duration15x": 6617,
+          "scheduledDate": "2027-04-05",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 10302,
+          "duration15x": 6868,
+          "scheduledDate": "2027-04-06",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 9628,
+          "duration15x": 6419,
+          "scheduledDate": "2027-04-06",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 9984,
+          "duration15x": 6656,
+          "scheduledDate": "2027-04-07",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 8788,
+          "duration15x": 5859,
+          "scheduledDate": "2027-04-07",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 10290,
+          "duration15x": 6860,
+          "scheduledDate": "2027-04-08",
+          "lectureLabel": "06"
+        },
+        {
+          "d": null,
+          "duration1x": 10560,
+          "duration15x": 7040,
+          "scheduledDate": "2027-04-08",
+          "lectureLabel": "07"
+        },
+        {
+          "d": null,
+          "duration1x": 10424,
+          "duration15x": 6949,
+          "scheduledDate": "2027-04-09",
+          "lectureLabel": "08"
+        },
+        {
+          "d": null,
+          "duration1x": 11348,
+          "duration15x": 7565,
+          "scheduledDate": "2027-04-10",
+          "lectureLabel": "09"
+        },
+        {
+          "d": null,
+          "duration1x": 11400,
+          "duration15x": 7600,
+          "scheduledDate": "2027-04-10",
+          "lectureLabel": "10"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26M20",
+      "sub": "M",
+      "name": "Methods of Differentiation",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/maths-by-ashish-agarwal-sir-741418/subject-topics/ch-20---method-of-differentiation-469710",
+      "sourceOrder": 19,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 9082,
+          "duration15x": 6055,
+          "scheduledDate": "2027-04-11",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 9648,
+          "duration15x": 6432,
+          "scheduledDate": "2027-04-11",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 10588,
+          "duration15x": 7059,
+          "scheduledDate": "2027-04-12",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 11164,
+          "duration15x": 7443,
+          "scheduledDate": "2027-04-12",
+          "lectureLabel": "04"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26M21",
+      "sub": "M",
+      "name": "Applications of Derivatives",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/maths-by-ashish-agarwal-sir-741418/subject-topics/ch-21---application-of-derivatives-967013",
+      "sourceOrder": 20,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 10960,
+          "duration15x": 7307,
+          "scheduledDate": "2027-04-13",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 10228,
+          "duration15x": 6819,
+          "scheduledDate": "2027-04-13",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 10112,
+          "duration15x": 6741,
+          "scheduledDate": "2027-04-14",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 9648,
+          "duration15x": 6432,
+          "scheduledDate": "2027-04-14",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 10444,
+          "duration15x": 6963,
+          "scheduledDate": "2027-04-15",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 8936,
+          "duration15x": 5957,
+          "scheduledDate": "2027-04-15",
+          "lectureLabel": "06"
+        },
+        {
+          "d": null,
+          "duration1x": 9488,
+          "duration15x": 6325,
+          "scheduledDate": "2027-04-16",
+          "lectureLabel": "07"
+        },
+        {
+          "d": null,
+          "duration1x": 10584,
+          "duration15x": 7056,
+          "scheduledDate": "2027-04-16",
+          "lectureLabel": "08"
+        },
+        {
+          "d": null,
+          "duration1x": 10072,
+          "duration15x": 6715,
+          "scheduledDate": "2027-04-17",
+          "lectureLabel": "09"
+        },
+        {
+          "d": null,
+          "duration1x": 9976,
+          "duration15x": 6651,
+          "scheduledDate": "2027-04-17",
+          "lectureLabel": "10"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26M22",
+      "sub": "M",
+      "name": "Indefinite Integration",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/maths-by-ashish-agarwal-sir-741418/subject-topics/ch-22---indefinite-integration-278043",
+      "sourceOrder": 21,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 7840,
+          "duration15x": 5227,
+          "scheduledDate": "2027-04-18",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 6121,
+          "duration15x": 4081,
+          "scheduledDate": "2027-04-18",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 7712,
+          "duration15x": 5141,
+          "scheduledDate": "2027-04-19",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 5837,
+          "duration15x": 3891,
+          "scheduledDate": "2027-04-19",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 8438,
+          "duration15x": 5625,
+          "scheduledDate": "2027-04-20",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 7202,
+          "duration15x": 4801,
+          "scheduledDate": "2027-04-20",
+          "lectureLabel": "06"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26M23",
+      "sub": "M",
+      "name": "Definite Integration",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/maths-by-ashish-agarwal-sir-741418/subject-topics/ch-24---definite-integration-129373",
+      "sourceOrder": 22,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 10468,
+          "duration15x": 6979,
+          "scheduledDate": "2027-04-21",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 10408,
+          "duration15x": 6939,
+          "scheduledDate": "2027-04-21",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 8256,
+          "duration15x": 5504,
+          "scheduledDate": "2027-04-22",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 10012,
+          "duration15x": 6675,
+          "scheduledDate": "2027-04-22",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 10736,
+          "duration15x": 7157,
+          "scheduledDate": "2027-04-23",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 10532,
+          "duration15x": 7021,
+          "scheduledDate": "2027-04-24",
+          "lectureLabel": "06"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26M24",
+      "sub": "M",
+      "name": "Applications of Integrals",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/maths-by-ashish-agarwal-sir-741418/subject-topics/ch-25---application-of-integrals-063195",
+      "sourceOrder": 23,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 9620,
+          "duration15x": 6413,
+          "scheduledDate": "2027-04-24",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 9502,
+          "duration15x": 6335,
+          "scheduledDate": "2027-04-25",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 10636,
+          "duration15x": 7091,
+          "scheduledDate": "2027-04-25",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 8651,
+          "duration15x": 5767,
+          "scheduledDate": "2027-04-26",
+          "lectureLabel": "04"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26M25",
+      "sub": "M",
+      "name": "Differential Equations",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/maths-by-ashish-agarwal-sir-741418/subject-topics/ch-26---differential-equations-902138",
+      "sourceOrder": 24,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 10301,
+          "duration15x": 6867,
+          "scheduledDate": "2027-04-26",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 9739,
+          "duration15x": 6493,
+          "scheduledDate": "2027-04-27",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 10913,
+          "duration15x": 7275,
+          "scheduledDate": "2027-04-27",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 2823,
+          "duration15x": 1882,
+          "scheduledDate": "2027-04-28",
+          "lectureLabel": "04"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26M26",
+      "sub": "M",
+      "name": "Matrices",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/maths-by-ashish-agarwal-sir-741418/subject-topics/ch-15---matrices-304628",
+      "sourceOrder": 25,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 8344,
+          "duration15x": 5563,
+          "scheduledDate": "2027-04-28",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 7988,
+          "duration15x": 5325,
+          "scheduledDate": "2027-04-29",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 9712,
+          "duration15x": 6475,
+          "scheduledDate": "2027-04-29",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 10302,
+          "duration15x": 6868,
+          "scheduledDate": "2027-04-30",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 9970,
+          "duration15x": 6647,
+          "scheduledDate": "2027-04-30",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 9800,
+          "duration15x": 6533,
+          "scheduledDate": "2027-05-01",
+          "lectureLabel": "06"
+        },
+        {
+          "d": null,
+          "duration1x": 10176,
+          "duration15x": 6784,
+          "scheduledDate": "2027-05-01",
+          "lectureLabel": "07"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26M27",
+      "sub": "M",
+      "name": "Determinants",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/maths-by-ashish-agarwal-sir-741418/subject-topics/ch-14---determinants-275933",
+      "sourceOrder": 26,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 9940,
+          "duration15x": 6627,
+          "scheduledDate": "2027-05-02",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 9636,
+          "duration15x": 6424,
+          "scheduledDate": "2027-05-02",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 8950,
+          "duration15x": 5967,
+          "scheduledDate": "2027-05-03",
+          "lectureLabel": "03"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26M28",
+      "sub": "M",
+      "name": "Vector Algebra",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/maths-by-ashish-agarwal-sir-741418/subject-topics/ch-27---vector-algebra-328886",
+      "sourceOrder": 27,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 10730,
+          "duration15x": 7153,
+          "scheduledDate": "2027-05-03",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 9804,
+          "duration15x": 6536,
+          "scheduledDate": "2027-05-04",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 10048,
+          "duration15x": 6699,
+          "scheduledDate": "2027-05-04",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 9474,
+          "duration15x": 6316,
+          "scheduledDate": "2027-05-05",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 9438,
+          "duration15x": 6292,
+          "scheduledDate": "2027-05-05",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 7892,
+          "duration15x": 5261,
+          "scheduledDate": "2027-05-06",
+          "lectureLabel": "06"
+        },
+        {
+          "d": null,
+          "duration1x": 10210,
+          "duration15x": 6807,
+          "scheduledDate": "2027-05-06",
+          "lectureLabel": "07"
+        },
+        {
+          "d": null,
+          "duration1x": 8924,
+          "duration15x": 5949,
+          "scheduledDate": "2027-05-07",
+          "lectureLabel": "08"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26M29",
+      "sub": "M",
+      "name": "Three-Dimensional Geometry",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/maths-by-ashish-agarwal-sir-741418/subject-topics/ch-28---three-dimensional-geometry-570243",
+      "sourceOrder": 28,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 9766,
+          "duration15x": 6511,
+          "scheduledDate": "2027-05-08",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 9972,
+          "duration15x": 6648,
+          "scheduledDate": "2027-05-08",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 11034,
+          "duration15x": 7356,
+          "scheduledDate": "2027-05-09",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 8125,
+          "duration15x": 5417,
+          "scheduledDate": "2027-05-09",
+          "lectureLabel": "04"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26M30",
+      "sub": "M",
+      "name": "Probability",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/maths-by-ashish-agarwal-sir-741418/subject-topics/ch-29---probability-952333",
+      "sourceOrder": 29,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 8504,
+          "duration15x": 5669,
+          "scheduledDate": "2027-05-10",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 8672,
+          "duration15x": 5781,
+          "scheduledDate": "2027-05-10",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 9474,
+          "duration15x": 6316,
+          "scheduledDate": "2027-05-11",
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "duration1x": 10300,
+          "duration15x": 6867,
+          "scheduledDate": "2027-05-11",
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "duration1x": 10580,
+          "duration15x": 7053,
+          "scheduledDate": "2027-05-12",
+          "lectureLabel": "05"
+        },
+        {
+          "d": null,
+          "duration1x": 9634,
+          "duration15x": 6423,
+          "scheduledDate": "2027-05-12",
+          "lectureLabel": "06"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "J26M10",
+      "sub": "M",
+      "name": "Statistics",
+      "url": "https://pwthor.live/study/batches/6a86ce9141c8c3630248cf70/subjects/maths-by-ashish-agarwal-sir-741418/subject-topics/ch-23---statistics-995913",
+      "sourceOrder": 30,
+      "lects": [
+        {
+          "d": null,
+          "duration1x": 7200,
+          "duration15x": 4800,
+          "scheduledDate": "2027-05-13",
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "duration1x": 6138,
+          "duration15x": 4092,
+          "scheduledDate": "2027-05-13",
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "duration1x": 5760,
+          "duration15x": 3840,
+          "scheduledDate": "2027-05-14",
+          "lectureLabel": "03"
+        }
+      ],
+      "custom": false
+    }
+  ],
+  "rev": {},
+  "focus": {},
+  "rlog": {},
+  "snz": {},
+  "tres": [],
+  "tplan": [],
+  "td": null,
+  "dpp": {},
+  "practice": {},
+  "schedulerVersion": 15,
+  "dailyTotal": null,
+  "subjectOrder": "PCM",
+  "restDays": []
+}

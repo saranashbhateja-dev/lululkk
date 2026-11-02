@@ -1,0 +1,8 @@
+JEE OS — Customizable plan start date
+
+- Added a date picker under Settings → Fixed Schedule.
+- Changing the plan start date shifts all unfinished scheduled lectures by the same number of calendar days.
+- Completed lectures and their completion timestamps are preserved.
+- Invalidates today’s cached lecture allocation and refreshes dashboard, planner, and calendar.
+- The selected date is saved in local tracker state and included in cloud snapshots/backups.
+- The precomputed lecture order and per-day lecture packing are preserved; this changes the schedule’s calendar anchor rather than dynamically rebuilding lecture durations.

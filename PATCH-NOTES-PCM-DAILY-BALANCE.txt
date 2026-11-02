@@ -1,0 +1,11 @@
+JEE OS — DAILY PCM BALANCING + ALIGNED SUBJECT FINISH
+
+- The scheduler aims for at least one Physics, Chemistry, and Maths lecture per study day whenever the next whole lectures fit within the 6.5-hour 1.5x watch-time cap.
+- After the daily PCM baseline, it tests each next whole lecture that fits and selects the one that most reduces the spread in remaining PCM video workload. This is intended to bring Physics, Chemistry, and Maths completion dates closer together.
+- Ties favor the subject with the larger remaining workload.
+- Lecture order within each subject is preserved.
+- Completed lectures and their completion dates are not rescheduled.
+- Changing the plan start date rebuilds the unfinished lecture schedule using the same balancing rules.
+- The app continues to hide lecture-duration figures from the UI.
+- If the next lecture from each subject cannot fit together under the daily cap, the scheduler preserves the cap and schedules what fits; therefore the PCM baseline is best-effort on that exceptional day.
+- Exact same-day completion cannot be guaranteed because whole lecture durations and remaining lecture counts differ, but the scheduler actively tries to align the finish dates.
